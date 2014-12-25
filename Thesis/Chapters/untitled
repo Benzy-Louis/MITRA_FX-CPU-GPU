@@ -1,0 +1,28 @@
+homodyne no conversion of frequency
+heterodyne - conversion of frequency
+
+addition receiver system
+phase switch receiver system factor of 2
+
+multiplication receiver
+
+correlation receiver - multiply integrate
+
+special purpose built correlators
+
+VLA1 VLA2 chips 30 years old
+
+OPTIMISATION OF FPGA BOARD
+
+LOWFAR , FPGA GMRT KAT7, MEERCAT WIDE APERTURE FIELD ARRAYS
+ASIC - SPECIALISED CHIPS FAST DIFFICULT TO PROGRAM
+
+Pi filters, T filters RLC, LC
+
+Mixers
+Multiply signal with phase
+V1 = V_10*exp(iw_0t)
+V2 = V_20*exp(iw_1t)
+
+V1V2 = V_10*V_20exp(i(w_0+w_1)t)
+Op-Amp

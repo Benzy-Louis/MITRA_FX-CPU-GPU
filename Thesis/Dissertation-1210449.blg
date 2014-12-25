@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d(web2c)
+Capacity: max_strings=50000, hash_size=50000, hash_prime=42509
+The top-level auxiliary file: /storage/emulated/0/LATEX STUDIO/Dissertation-1210449/Dissertation-1210449.aux
+A level-1 auxiliary file: tex/figures.aux
+A level-1 auxiliary file: tex/tables.aux
+A level-1 auxiliary file: tex/abv.aux
+A level-1 auxiliary file: tex/conclusion.aux
+The style file: plainnat.bst
+Database file #1: Bibliography.bib
+Warning--empty booktitle in woods2010accelerating
+You've used 4 entries,
+            2773 wiz_defined-function locations,
+            617 strings with 5666 characters,
+and the built_in function-call counts, 1505 in all, are:
+= -- 122
+> -- 80
+< -- 2
++ -- 29
+- -- 24
+* -- 106
+:= -- 239
+add.period$ -- 15
+call.type$ -- 4
+change.case$ -- 19
+chr.to.int$ -- 3
+cite$ -- 9
+duplicate$ -- 74
+empty$ -- 137
+format.name$ -- 28
+if$ -- 310
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 3
+newline$ -- 31
+num.names$ -- 16
+pop$ -- 55
+preamble$ -- 1
+purify$ -- 16
+quote$ -- 0
+skip$ -- 53
+stack$ -- 0
+substring$ -- 8
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 39
+warning$ -- 1
+while$ -- 12
+width$ -- 0
+write$ -- 60
+(There was 1 warning)

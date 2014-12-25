@@ -1,0 +1,2209 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.9)  15 NOV 2014 22:14
+entering extended mode
+**Thesis.tex
+(E:\HOTSPOT\Downloads\Thesis-Template\Thesis.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(E:\HOTSPOT\Downloads\Thesis-Template\Thesis.cls
+Document Class: Thesis 2007/22/02 v1.0 LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk11.clo"
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen111
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen112
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks17
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks18
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks19
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amscd.sty"
+Package: amscd 1999/11/29 v2.0
+\athelp@=\toks21
+\minaw@=\dimen120
+\bigaw@=\dimen121
+\minCDarrowwidth=\dimen122
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks27
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+\c@example=\count103
+\c@theorem=\count104
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen123
+\captionmargin@=\dimen124
+\captionwidth=\dimen125
+\caption@tempdima=\dimen126
+\caption@indent=\dimen127
+\caption@parindent=\dimen128
+\caption@hangindent=\dimen129
+)
+\c@ContinuedFloat=\count105
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count106
+))
+\Gin@req@height=\dimen130
+\Gin@req@width=\dimen131
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen132
+\lightrulewidth=\dimen133
+\cmidrulewidth=\dimen134
+\belowrulesep=\dimen135
+\belowbottomsep=\dimen136
+\aboverulesep=\dimen137
+\abovetopsep=\dimen138
+\cmidrulesep=\dimen139
+\cmidrulekern=\dimen140
+\defaultaddspace=\dimen141
+\@cmidla=\count107
+\@cmidlb=\count108
+\@aboverulesep=\dimen142
+\@belowrulesep=\dimen143
+\@thisruleclass=\count109
+\@lastruleclass=\count110
+\@thisrulewidth=\dimen144
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\rotating\rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count111
+\rotFPtop=\skip58
+\rotFPbot=\skip59
+\rot@float@box=\box28
+\rot@mess@toks=\toks28
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count112
+\lst@gtempboxa=\box29
+\lst@token=\toks29
+\lst@length=\count113
+\lst@currlwidth=\dimen145
+\lst@column=\count114
+\lst@pos=\count115
+\lst@lostspace=\dimen146
+\lst@width=\dimen147
+\lst@newlines=\count116
+\lst@lineno=\count117
+\lst@maxwidth=\dimen148
+
+(E:\HOTSPOT\Downloads\Thesis-Template\lstpatch.sty
+
+***
+*** This is a patch for listings 1.3, but you're using
+*** version 1.5e.
+***
+*** Patch file not loaded.
+***
+
+) (C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count118
+\lst@skipnumbers=\count119
+\lst@framebox=\box30
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+(E:\HOTSPOT\Downloads\Thesis-Template\lstpatch.sty
+
+***
+*** This is a patch for listings 1.3, but you're using
+*** version 1.5e.
+***
+ *** Patch file not loaded.
+***
+
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen149
+\Hy@linkcounter=\count120
+\Hy@pagecounter=\count121
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count122
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4319
+.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 4319.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `unicode' set `true' on input line 4319.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count123
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen150
+\Fld@menulength=\count124
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count125
+\c@Item=\count126
+\c@Hfootnote=\count127
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count128
+\c@bookmark@seq@number=\count129
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip60
+)
+\c@dummy=\count130
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip61
+\LTright=\skip62
+\LTpre=\skip63
+\LTpost=\skip64
+\LTchunksize=\count131
+\LTcapwidth=\dimen153
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count132
+\LT@rows=\count133
+\c@LT@tables=\count134
+\c@LT@chunks=\count135
+\LT@p@ftn=\toks30
+))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon.tex
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen154
+\pgfutil@tempdimb=\dimen155
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon-lists.tex))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-la
+tex.def
+\pgfutil@abb=\box35
+ (C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.cod
+e.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.c
+ode.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
+tered.code.tex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen156
+\pgf@y=\dimen157
+\pgf@xa=\dimen158
+\pgf@ya=\dimen159
+\pgf@xb=\dimen160
+\pgf@yb=\dimen161
+\pgf@xc=\dimen162
+\pgf@yc=\dimen163
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count136
+\c@pgf@countb=\count137
+\c@pgf@countc=\count138
+\c@pgf@countd=\count139
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-p
+dftex.def
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-c
+ommon-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysso
+ftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count140
+\pgfsyssoftpath@bigbuffer@items=\count141
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspr
+otocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.c
+ode.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.cod
+e.tex
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.cod
+e.tex)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
+ode.tex
+\pgfmath@dimen=\dimen164
+\pgfmath@count=\count142
+\pgfmath@box=\box36
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.code.tex
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.basic.code.tex)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.trigonometric.code.tex)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.random.code.tex)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.comparison.code.tex)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.base.code.tex)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.round.code.tex)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.misc.code.tex)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.integerarithmetics.code.tex)))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
+de.tex
+\c@pgfmathroundto@lastzeros=\count143
+))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepo
+ints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen165
+\pgf@picmaxx=\dimen166
+\pgf@picminy=\dimen167
+\pgf@picmaxy=\dimen168
+\pgf@pathminx=\dimen169
+\pgf@pathmaxx=\dimen170
+\pgf@pathminy=\dimen171
+\pgf@pathmaxy=\dimen172
+\pgf@xx=\dimen173
+\pgf@xy=\dimen174
+\pgf@yx=\dimen175
+\pgf@yy=\dimen176
+\pgf@zx=\dimen177
+\pgf@zy=\dimen178
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen179
+\pgf@path@lasty=\dimen180
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thusage.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen181
+\pgf@shorten@start@additional=\dimen182
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresc
+opes.code.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box37
+\pgf@hbox=\box38
+\pgf@layerbox@main=\box39
+\pgf@picture@serial@count=\count144
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregr
+aphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen183
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansformations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen184
+\pgf@pt@y=\dimen185
+\pgf@pt@temp=\dimen186
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequ
+ick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreob
+jects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorear
+rows.code.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen187
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresh
+ade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen188
+\pgf@sys@shading@range@num=\count145
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreim
+age.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreex
+ternal.code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box40
+))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorela
+yers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+tterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesha
+pes.code.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box41
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleplo
+t.code.tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen189
+\pgf@nodesepend=\dimen190
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.cod
+e.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x)
+\pgffor@iter=\dimen191
+\pgffor@skip=\dimen192
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
+))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\t
+ikz.code.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
+plothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count146
+\pgfplotmarksize=\dimen193
+)
+\tikz@lastx=\dimen194
+\tikz@lasty=\dimen195
+\tikz@lastxsaved=\dimen196
+\tikz@lastysaved=\dimen197
+\tikzleveldistance=\dimen198
+\tikzsiblingdistance=\dimen199
+\tikz@figbox=\box42
+\tikz@figbox@bg=\box43
+\tikz@tempbox=\box44
+\tikz@tempbox@bg=\box45
+\tikztreelevel=\count147
+\tikznumberofchildren=\count148
+\tikznumberofcurrentchild=\count149
+\tikz@fig@count=\count150
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulemat
+rix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count151
+\pgfmatrixcurrentcolumn=\count152
+\pgf@matrix@numberofcolumns=\count153
+)
+\tikz@expandcount=\count154
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
+ibraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip65
+\bibsep=\skip66
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count155
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks43
+\verbatim@line=\toks44
+\verbatim@in@stream=\read2
+)
+(E:\HOTSPOT\Downloads\Thesis-Template\vector.sty
+Package: vector 1994/09/16 v1.0 vector macros for LaTeX2e (nde)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count156
+\calc@Bcount=\count157
+\calc@Adimen=\dimen200
+\calc@Bdimen=\dimen201
+\calc@Askip=\skip67
+\calc@Bskip=\skip68
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count158
+\calc@Cskip=\skip69
+)
+\c@vec@elem=\count159
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 13.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count160
+\float@exts=\toks45
+\float@box=\box46
+\@float@everytoks=\toks46
+\@floatcapt=\box47
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.sty
+\wrapoverhang=\dimen202
+\WF@size=\dimen203
+\c@WF@wrappedlines=\count161
+\WF@box=\box48
+\WF@everypar=\toks47
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\floatflt\floatflt.sty
+Package: floatflt 1997/07/16 v. 1.31
+\c@OptionTest=\count162
+\figbox=\box49
+\tabbox=\box50
+\pagebox=\box51
+\ffigcount=\count163
+\ftabcount=\count164
+\fftest=\count165
+\hangcount=\count166
+\nosuccesstryfig=\count167
+\nosuccesstrytab=\count168
+\figgutter=\dimen204
+\tabgutter=\dimen205
+\htdone=\dimen206
+\pageht=\dimen207
+\startpageht=\dimen208
+\tabbredd=\dimen209
+\floatfltwidth=\dimen210
+\fltitemwidth=\dimen211
+\outputpretest=\toks48
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks49
+\inpenc@posthook=\toks50
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\cyrillic\ot2enc.def
+File: ot2enc.def 2001/08/11 v3.3a Cyrillic encoding definition file
+Now handling font encoding OT2 ...
+... processing UTF-8 mapping file for font encoding OT2
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot2enc.dfu"
+File: ot2enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0462 (decimal 1122)
+   defining Unicode char U+0463 (decimal 1123)
+   defining Unicode char U+0472 (decimal 1138)
+   defining Unicode char U+0473 (decimal 1139)
+   defining Unicode char U+0474 (decimal 1140)
+   defining Unicode char U+0475 (decimal 1141)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2116 (decimal 8470)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+\symcyrletters=\mathgroup7
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count169
+\c@subtable=\count170
+)
+(E:\HOTSPOT\Downloads\Thesis-Template\Thesis.aux
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/figures.aux)
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/tables.aux)
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/abv.aux)
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/conclusion.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 31.
+LaTeX Font Info:    Try loading font information for OT2+cmr on input line 31.
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\cyrillic\ot2cmr.fd
+File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 31.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 426.79135pt, 56.9055pt)
+* v-part:(T,H,B)=(43.36243pt, 693.27942pt, 108.405pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=693.27942pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-66.97505pt
+* \headheight=20.0pt
+* \headsep=18.06749pt
+* \topskip=11.0pt plus 5.0pt
+* \footskip=15.0pt
+* \marginparwidth=53.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=21.68121pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: floatflt package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count171
+\scratchdimen=\dimen212
+\scratchbox=\box52
+\nofMPsegments=\count172
+\nofMParguments=\count173
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count174
+\MPscratchDim=\dimen213
+\MPnumerator=\count175
+\makeMPintoPDFobject=\count176
+\everyMPtoPDFconversion=\toks52
+)
+\c@lstlisting=\count177
+\AtBeginShipoutBox=\box53
+Package hyperref Info: Link coloring ON on input line 31.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count178
+)
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
+
+(E:\HOTSPOT\Downloads\Thesis-Template\Thesis.out)
+(E:\HOTSPOT\Downloads\Thesis-Template\Thesis.out)
+\@outlinefile=\write4
+
+ABD: EveryShipout initializing macros
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/title.tex
+<img/Cov.png, id=166, 597.432pt x 845.0772pt>
+File: img/Cov.png Graphic file (type png)
+ <use img/Cov.png>
+Package pdftex.def Info: img/Cov.png used on input line 7.
+(pdftex.def)             Requested size: 597.55817pt x 845.04933pt.
+
+<img/University-of-Mauritius-logo.png, id=167, 179.67125pt x 248.93pt>
+File: img/University-of-Mauritius-logo.png Graphic file (type png)
+
+<use img/University-of-Mauritius-logo.png>
+Package pdftex.def Info: img/University-of-Mauritius-logo.png used on input lin
+e 9.
+(pdftex.def)             Requested size: 64.01608pt x 88.69553pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 26.
+ [1
+
+
+
+{C:/Users/Denis/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <E:/HOTSPOT/
+Downloads/Thesis-Template/img/Cov.png> <E:/HOTSPOT/Downloads/Thesis-Template/im
+g/University-of-Mauritius-logo.png>]) (E:\HOTSPOT\Downloads\Thesis-Template\tex
+/declaration.tex
+------------------------------------------------------------------------------
+ Declaration of Authorship
+------------------------------------------------------------------------------
+LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 28.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Try loading font information for OT2+wncyr on input line 28
+.
+
+(C:\Users\Denis\AppData\Roaming\MiKTeX\2.9\tex\latex\cyrillic\ot2wncyr.fd
+File: ot2wncyr.fd 1999/12/17 v3.2a Computer Modern Cyrillic font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+
+ []
+
+[1
+
+]) (E:\HOTSPOT\Downloads\Thesis-Template\tex/funnyQuote.tex [2
+
+])
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/abstract.tex
+------------------------------------------------------------------------------
+ Abstract Page
+------------------------------------------------------------------------------
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 5.
+[3
+
+]) (E:\HOTSPOT\Downloads\Thesis-Template\tex/acknowledgement.tex
+------------------------------------------------------------------------------
+ Acknowledgements
+------------------------------------------------------------------------------
+[4
+
+])
+------------------------------------------------------------------------------
+ Table of Contents
+------------------------------------------------------------------------------
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 79.
+(E:\HOTSPOT\Downloads\Thesis-Template\Thesis.toc [5
+
+
+])
+\tf@toc=\write5
+ [6]
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/figures.tex
+------------------------------------------------------------------------------
+ List of Figures
+------------------------------------------------------------------------------
+(E:\HOTSPOT\Downloads\Thesis-Template\Thesis.lof)
+\tf@lof=\write6
+ [7
+
+
+
+])
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/tables.tex
+------------------------------------------------------------------------------
+ List of Tables
+------------------------------------------------------------------------------
+(E:\HOTSPOT\Downloads\Thesis-Template\Thesis.lot)
+\tf@lot=\write7
+ [8
+
+
+
+
+])
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/abv.tex
+------------------------------------------------------------------------------
+ Abbreviations
+------------------------------------------------------------------------------
+[9
+
+
+
+
+
+]) (E:\HOTSPOT\Downloads\Thesis-Template\tex/phyConstSyms.tex
+------------------------------------------------------------------------------
+ Physical Constants
+------------------------------------------------------------------------------
+[10
+
+
+
+
+]
+------------------------------------------------------------------------------
+ Symbols
+------------------------------------------------------------------------------
+[11
+
+
+
+]) (E:\HOTSPOT\Downloads\Thesis-Template\tex/dedicate.tex
+------------------------------------------------------------------------------
+ Dedicatory
+------------------------------------------------------------------------------
+[12
+
+]) (E:\HOTSPOT\Downloads\Thesis-Template\Chapters\Chapter1.tex
+Chapter 1.
+------------------------------------------------------------------------------
+ 1 Introduction
+------------------------------------------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+<Figures/Sir-Martin-Ryle-C.jpg, id=340, 271.0125pt x 272.01625pt>
+File: Figures/Sir-Martin-Ryle-C.jpg Graphic file (type jpg)
+
+<use Figures/Sir-Martin-Ryle-C.jpg>
+Package pdftex.def Info: Figures/Sir-Martin-Ryle-C.jpg used on input line 22.
+(pdftex.def)             Requested size: 121.95448pt x 122.40617pt.
+
+Overfull \hbox (36.59752pt too wide) in paragraph at lines 22--23
+ []
+ []
+
+<Figures/Quasar3C273.jpg, id=343, 188.705pt x 200.75pt>
+File: Figures/Quasar3C273.jpg Graphic file (type jpg)
+
+<use Figures/Quasar3C273.jpg>
+Package pdftex.def Info: Figures/Quasar3C273.jpg used on input line 26.
+(pdftex.def)             Requested size: 84.91646pt x 90.33665pt.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 32.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[][]$\T1/pcr/m/n/6 http : / / colnect . com / en / stamps / stamp / 184650-[]Si
+r _ Martin _ Ryle _ -[] _ Radio _ Surveyor _ of _ the _ Universe-[]Eminent _ Br
+itons-[]United _$
+ []
+
+[1
+
+
+
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 39.
+ <Figures/sSource.png, id=356, 188.8656pt x 133.2177pt>
+File: Figures/sSource.png Graphic file (type png)
+
+<use Figures/sSource.png>
+Package pdftex.def Info: Figures/sSource.png used on input line 44.
+(pdftex.def)             Requested size: 245.52524pt x 173.18297pt.
+
+<Figures/cynus_A.png, id=359, 341.5962pt x 185.0112pt>
+File: Figures/cynus_A.png Graphic file (type png)
+
+<use Figures/cynus_A.png>
+Package pdftex.def Info: Figures/cynus_A.png used on input line 56.
+(pdftex.def)             Requested size: 256.1965pt x 138.75806pt.
+
+<Figures/AntennaDif.png, id=362, 292.2117pt x 99.4917pt>
+File: Figures/AntennaDif.png Graphic file (type png)
+
+<use Figures/AntennaDif.png>
+Package pdftex.def Info: Figures/AntennaDif.png used on input line 69.
+(pdftex.def)             Requested size: 292.21098pt x 99.49144pt.
+ [2 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/Sir-Martin-Ryle-C.jpg> <E:/HO
+TSPOT/Downloads/Thesis-Template/Figures/Quasar3C273.jpg> <E:/HOTSPOT/Downloads/
+Thesis-Template/Figures/sSource.png>]
+<Figures/AntennaPattern.png, id=377, 339.4281pt x 193.6836pt>
+File: Figures/AntennaPattern.png Graphic file (type png)
+
+<use Figures/AntennaPattern.png>
+Package pdftex.def Info: Figures/AntennaPattern.png used on input line 81.
+(pdftex.def)             Requested size: 339.42728pt x 193.6831pt.
+
+<Figures/angres.png, id=381, 560.0925pt x 232.4685pt>
+File: Figures/angres.png Graphic file (type png)
+ <use Figures/angres.png>
+Package pdftex.def Info: Figures/angres.png used on input line 95.
+(pdftex.def)             Requested size: 420.06834pt x 174.35094pt.
+
+[3 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/cynus_A.png> <E:/HOTSPOT/Downl
+oads/Thesis-Template/Figures/AntennaDif.png>] [4 <E:/HOTSPOT/Downloads/Thesis-T
+emplate/Figures/AntennaPattern.png> <E:/HOTSPOT/Downloads/Thesis-Template/Figur
+es/angres.png>] <Figures/RadioSet.png, id=399, 300.4023pt x 153.4533pt>
+File: Figures/RadioSet.png Graphic file (type png)
+
+<use Figures/RadioSet.png>
+Package pdftex.def Info: Figures/RadioSet.png used on input line 113.
+(pdftex.def)             Requested size: 270.35956pt x 138.10666pt.
+ [5 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/RadioSet.png>] <Figures/freeC
+oor.png, id=413, 235.1184pt x 336.2964pt>
+File: Figures/freeCoor.png Graphic file (type png)
+
+<use Figures/freeCoor.png>
+Package pdftex.def Info: Figures/freeCoor.png used on input line 135.
+(pdftex.def)             Requested size: 211.60457pt x 302.66396pt.
+ [6 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/freeCoor.png>] <Figures/sAngl
+e.png, id=423, 416.9979pt x 331.2375pt>
+File: Figures/sAngle.png Graphic file (type png)
+
+<use Figures/sAngle.png>
+Package pdftex.def Info: Figures/sAngle.png used on input line 160.
+(pdftex.def)             Requested size: 208.49843pt x 165.61833pt.
+ [7 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/sAngle.png>] [8]) (E:\HOTSPOT
+\Downloads\Thesis-Template\tex\literatureReview.tex
+[9]
+Chapter 2.
+------------------------------------------------------------------------------
+ 2 Literature Review
+------------------------------------------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--37
+
+ []
+
+[10
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 108--141
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 142--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--169
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 171--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--197
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 198--200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--226
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 227--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--273
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--282
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 283--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--290
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--313
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 314--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--321
+
+ []
+
+) (E:\HOTSPOT\Downloads\Thesis-Template\Chapters\Chapter2.tex [18]
+Chapter 3.
+------------------------------------------------------------------------------
+ 3 Cross-correlation
+------------------------------------------------------------------------------
+<Figures/correlatorFil.png, id=497, 2235.35126pt x 1655.18375pt>
+File: Figures/correlatorFil.png Graphic file (type png)
+
+<use Figures/correlatorFil.png>
+Package pdftex.def Info: Figures/correlatorFil.png used on input line 16.
+(pdftex.def)             Requested size: 335.28822pt x 248.26685pt.
+ [19
+
+ <E:/HOTSPOT/Downloads/Thesis-Template/Figures/correlatorFil.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+[20]) (E:\HOTSPOT\Downloads\Thesis-Template\Chapters\Chapter3.tex [21] [22]
+Chapter 4.
+------------------------------------------------------------------------------
+ 4 Image Reconstruction
+------------------------------------------------------------------------------
+<Figures/phaseQ.png, id=546, 613.29124pt x 378.41376pt>
+File: Figures/phaseQ.png Graphic file (type png)
+
+<use Figures/phaseQ.png>
+Package pdftex.def Info: Figures/phaseQ.png used on input line 28.
+(pdftex.def)             Requested size: 183.98878pt x 113.525pt.
+
+<Figures/phase0.png, id=552, 1234.6125pt x 378.41376pt>
+File: Figures/phase0.png Graphic file (type png)
+
+<use Figures/phase0.png>
+Package pdftex.def Info: Figures/phase0.png used on input line 35.
+(pdftex.def)             Requested size: 370.38661pt x 113.525pt.
+
+<Figures/phase1.png, id=555, 1234.6125pt x 378.41376pt>
+File: Figures/phase1.png Graphic file (type png)
+
+<use Figures/phase1.png>
+Package pdftex.def Info: Figures/phase1.png used on input line 41.
+(pdftex.def)             Requested size: 370.38661pt x 113.525pt.
+ [23
+
+ <E:/HOTSPOT/Downloads/Thesis-Template/Figures/phaseQ.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+[24 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/phase0.png> <E:/HOTSPOT/Downl
+oads/Thesis-Template/Figures/phase1.png>]
+<Figures/sampling.png, id=580, 1222.5675pt x 774.895pt>
+File: Figures/sampling.png Graphic file (type png)
+
+<use Figures/sampling.png>
+Package pdftex.def Info: Figures/sampling.png used on input line 57.
+(pdftex.def)             Requested size: 366.77307pt x 232.47029pt.
+ [25 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/sampling.png>] [26] <Figures
+/sampling2d.png, id=618, 1222.5675pt x 774.895pt>
+File: Figures/sampling2d.png Graphic file (type png)
+
+<use Figures/sampling2d.png>
+Package pdftex.def Info: Figures/sampling2d.png used on input line 106.
+(pdftex.def)             Requested size: 366.77307pt x 232.47029pt.
+ [27 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/sampling2d.png>] <Figures/co
+rrelarray.png, id=633, 1222.5675pt x 774.895pt>
+File: Figures/correlarray.png Graphic file (type png)
+
+<use Figures/correlarray.png>
+Package pdftex.def Info: Figures/correlarray.png used on input line 131.
+(pdftex.def)             Requested size: 244.50917pt x 154.97626pt.
+ [28 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/correlarray.png>] <Figures/a
+ntconf.png, id=646, 1222.5675pt x 774.895pt>
+File: Figures/antconf.png Graphic file (type png)
+
+<use Figures/antconf.png>
+Package pdftex.def Info: Figures/antconf.png used on input line 145.
+(pdftex.def)             Requested size: 244.50917pt x 154.97626pt.
+ [29 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/antconf.png>] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+[31] <Figures/uv-coverage/1antcov.jpg, id=677, 305.20892pt x 332.50403pt>
+File: Figures/uv-coverage/1antcov.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/1antcov.jpg>
+Package pdftex.def Info: Figures/uv-coverage/1antcov.jpg used on input line 193
+.
+(pdftex.def)             Requested size: 122.08139pt x 132.99924pt.
+
+<Figures/uv-coverage/1antIma.jpg, id=678, 347.02621pt x 311.21675pt>
+File: Figures/uv-coverage/1antIma.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/1antIma.jpg>
+Package pdftex.def Info: Figures/uv-coverage/1antIma.jpg used on input line 200
+.
+(pdftex.def)             Requested size: 138.80801pt x 124.48448pt.
+
+<Figures/uv-coverage/7antcov.jpg, id=679, 310.54008pt x 338.31197pt>
+File: Figures/uv-coverage/7antcov.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/7antcov.jpg>
+Package pdftex.def Info: Figures/uv-coverage/7antcov.jpg used on input line 206
+.
+(pdftex.def)             Requested size: 124.21382pt x 135.32237pt.
+
+<Figures/uv-coverage/7antIma.jpg, id=680, 347.02621pt x 311.21675pt>
+File: Figures/uv-coverage/7antIma.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/7antIma.jpg>
+Package pdftex.def Info: Figures/uv-coverage/7antIma.jpg used on input line 213
+.
+(pdftex.def)             Requested size: 138.80801pt x 124.48448pt.
+
+<Figures/uv-coverage/7antcov1h.jpg, id=681, 310.54008pt x 338.31197pt>
+File: Figures/uv-coverage/7antcov1h.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/7antcov1h.jpg>
+Package pdftex.def Info: Figures/uv-coverage/7antcov1h.jpg used on input line 2
+18.
+(pdftex.def)             Requested size: 124.21382pt x 135.32237pt.
+
+<Figures/uv-coverage/7antIma1h.jpg, id=682, 347.02621pt x 311.21675pt>
+File: Figures/uv-coverage/7antIma1h.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/7antIma1h.jpg>
+Package pdftex.def Info: Figures/uv-coverage/7antIma1h.jpg used on input line 2
+25.
+(pdftex.def)             Requested size: 138.80801pt x 124.48448pt.
+
+<Figures/uv-coverage/7antcov8h.jpg, id=683, 310.54008pt x 338.31197pt>
+File: Figures/uv-coverage/7antcov8h.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/7antcov8h.jpg>
+Package pdftex.def Info: Figures/uv-coverage/7antcov8h.jpg used on input line 2
+30.
+(pdftex.def)             Requested size: 108.69064pt x 118.41095pt.
+
+<Figures/uv-coverage/7antIma8h.jpg, id=684, 347.02621pt x 311.21675pt>
+File: Figures/uv-coverage/7antIma8h.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/7antIma8h.jpg>
+Package pdftex.def Info: Figures/uv-coverage/7antIma8h.jpg used on input line 2
+37.
+(pdftex.def)             Requested size: 138.80801pt x 124.48448pt.
+
+Overfull \hbox (4.16101pt too wide) in paragraph at lines 192--241
+ [][]  [] 
+ []
+
+
+Overfull \hbox (4.16101pt too wide) in paragraph at lines 192--241
+ []  [] 
+ []
+
+
+Overfull \hbox (4.16101pt too wide) in paragraph at lines 192--241
+ []  [] 
+ []
+
+
+Overfull \hbox (4.16101pt too wide) in paragraph at lines 192--241
+ []  [] 
+ []
+
+[32] [33 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/uv-coverage/1antcov.jpg>
+ <E:/HOTSPOT/Downloads/Thesis-Template/Figures/uv-coverage/1antIma.jpg> <E:/HOT
+SPOT/Downloads/Thesis-Template/Figures/uv-coverage/7antcov.jpg> <E:/HOTSPOT/Dow
+nloads/Thesis-Template/Figures/uv-coverage/7antIma.jpg> <E:/HOTSPOT/Downloads/T
+hesis-Template/Figures/uv-coverage/7antcov1h.jpg> <E:/HOTSPOT/Downloads/Thesis-
+Template/Figures/uv-coverage/7antIma1h.jpg> <E:/HOTSPOT/Downloads/Thesis-Templa
+te/Figures/uv-coverage/7antcov8h.jpg> <E:/HOTSPOT/Downloads/Thesis-Template/Fig
+ures/uv-coverage/7antIma8h.jpg>] [34]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 276.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 276.
+ [35]
+Underfull \hbox (badness 10000) in paragraph at lines 307--310
+
+ []
+
+[36]
+Overfull \hbox (1.87662pt too wide) in paragraph at lines 314--317
+\T1/ptm/m/n/10.95 ta-per-ing func-tion. Thus the syn-the-sised beam is the Four
+ier trans-form of $\OML/cmm/m/it/10.95 W\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95
+ u; v\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 w[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/
+it/10.95 u; v\OT1/cmr/m/n/10.95 )[]$\T1/ptm/m/n/10.95 : 
+ []
+
+<Figures/naturalWeight.png, id=724, 822.07124pt x 733.74126pt>
+File: Figures/naturalWeight.png Graphic file (type png)
+
+<use Figures/naturalWeight.png>
+Package pdftex.def Info: Figures/naturalWeight.png used on input line 325.
+(pdftex.def)             Requested size: 128.0387pt x 114.27731pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--326
+ []\T1/ptm/m/sc/10 (a) |\T1/ptm/m/n/10 The ef-fect of nat-u-ral 
+ []
+
+<Figures/UniformWeight.png, id=725, 822.07124pt x 733.74126pt>
+File: Figures/UniformWeight.png Graphic file (type png)
+
+<use Figures/UniformWeight.png>
+Package pdftex.def Info: Figures/UniformWeight.png used on input line 332.
+(pdftex.def)             Requested size: 128.0387pt x 114.27731pt.
+
+Underfull \hbox (badness 8075) in paragraph at lines 333--333
+ []\T1/ptm/m/sc/10 (b) |\T1/ptm/m/n/10 The ef-fect of uni-form 
+ []
+
+<Figures/taper.png, id=726, 594.22pt x 532.99126pt>
+File: Figures/taper.png Graphic file (type png)
+ <use Figures/taper.png>
+Package pdftex.def Info: Figures/taper.png used on input line 339.
+(pdftex.def)             Requested size: 128.0387pt x 114.843pt.
+
+[37 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/naturalWeight.png> <E:/HOTSPO
+T/Downloads/Thesis-Template/Figures/UniformWeight.png> <E:/HOTSPOT/Downloads/Th
+esis-Template/Figures/taper.png>])
+(E:\HOTSPOT\Downloads\Thesis-Template\Chapters\Chapter4.tex [38]
+Chapter 5.
+------------------------------------------------------------------------------
+ 5 Image Processing
+------------------------------------------------------------------------------
+<Figures/dirty.jpg, id=751, 213.9192pt x 190.7928pt>
+File: Figures/dirty.jpg Graphic file (type jpg)
+ <use Figures/dirty.jpg>
+Package pdftex.def Info: Figures/dirty.jpg used on input line 15.
+(pdftex.def)             Requested size: 213.39568pt x 190.33524pt.
+
+<Figures/scaledbeam.jpg, id=752, 213.9192pt x 191.87685pt>
+File: Figures/scaledbeam.jpg Graphic file (type jpg)
+
+<use Figures/scaledbeam.jpg>
+Package pdftex.def Info: Figures/scaledbeam.jpg used on input line 22.
+(pdftex.def)             Requested size: 213.39568pt x 191.4167pt.
+
+Overfull \hbox (4.16101pt too wide) in paragraph at lines 14--26
+ [][]  [] 
+ []
+
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 33.
+
+[39
+
+ <E:/HOTSPOT/Downloads/Thesis-Template/Figures/dirty.jpg> <E:/HOTSPOT/Downloads
+/Thesis-Template/Figures/scaledbeam.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--55
+
+ []
+
+[40] [41] [42]
+<Figures/uv-coverage/cleanD1.jpg, id=786, 213.9192pt x 190.7928pt>
+File: Figures/uv-coverage/cleanD1.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/cleanD1.jpg>
+Package pdftex.def Info: Figures/uv-coverage/cleanD1.jpg used on input line 89.
+
+(pdftex.def)             Requested size: 128.3525pt x 114.47655pt.
+
+<Figures/uv-coverage/cleanD1map.jpg, id=787, 213.9192pt x 190.7928pt>
+File: Figures/uv-coverage/cleanD1map.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/cleanD1map.jpg>
+Package pdftex.def Info: Figures/uv-coverage/cleanD1map.jpg used on input line 
+98.
+(pdftex.def)             Requested size: 128.3525pt x 114.47655pt.
+
+<Figures/uv-coverage/cleanD1res.jpg, id=788, 213.9192pt x 190.7928pt>
+File: Figures/uv-coverage/cleanD1res.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/cleanD1res.jpg>
+Package pdftex.def Info: Figures/uv-coverage/cleanD1res.jpg used on input line 
+105.
+(pdftex.def)             Requested size: 128.3525pt x 114.47655pt.
+
+<Figures/uv-coverage/cleanD100map.jpg, id=789, 213.9192pt x 190.7928pt>
+File: Figures/uv-coverage/cleanD100map.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/cleanD100map.jpg>
+Package pdftex.def Info: Figures/uv-coverage/cleanD100map.jpg used on input lin
+e 113.
+(pdftex.def)             Requested size: 128.3525pt x 114.47655pt.
+
+<Figures/uv-coverage/cleanD100res.jpg, id=790, 213.9192pt x 190.7928pt>
+File: Figures/uv-coverage/cleanD100res.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/cleanD100res.jpg>
+Package pdftex.def Info: Figures/uv-coverage/cleanD100res.jpg used on input lin
+e 119.
+(pdftex.def)             Requested size: 128.3525pt x 114.47655pt.
+
+<Figures/uv-coverage/cleanD583map.jpg, id=791, 213.9192pt x 190.7928pt>
+File: Figures/uv-coverage/cleanD583map.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/cleanD583map.jpg>
+Package pdftex.def Info: Figures/uv-coverage/cleanD583map.jpg used on input lin
+e 127.
+(pdftex.def)             Requested size: 128.3525pt x 114.47655pt.
+
+<Figures/uv-coverage/cleanD583res.jpg, id=792, 213.9192pt x 190.7928pt>
+File: Figures/uv-coverage/cleanD583res.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/cleanD583res.jpg>
+Package pdftex.def Info: Figures/uv-coverage/cleanD583res.jpg used on input lin
+e 133.
+(pdftex.def)             Requested size: 128.3525pt x 114.47655pt.
+
+<Figures/uv-coverage/cleanRes.jpg, id=793, 213.9192pt x 190.7928pt>
+File: Figures/uv-coverage/cleanRes.jpg Graphic file (type jpg)
+
+<use Figures/uv-coverage/cleanRes.jpg>
+Package pdftex.def Info: Figures/uv-coverage/cleanRes.jpg used on input line 14
+1.
+(pdftex.def)             Requested size: 149.74242pt x 133.55403pt.
+
+Overfull \hbox (4.16101pt too wide) in paragraph at lines 94--145
+ []  [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 14.1808pt on input line 146.
+
+[43] [44 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/uv-coverage/cleanD1.jpg>
+ <E:/HOTSPOT/Downloads/Thesis-Template/Figures/uv-coverage/cleanD1map.jpg> <E:/
+HOTSPOT/Downloads/Thesis-Template/Figures/uv-coverage/cleanD1res.jpg> <E:/HOTSP
+OT/Downloads/Thesis-Template/Figures/uv-coverage/cleanD100map.jpg> <E:/HOTSPOT/
+Downloads/Thesis-Template/Figures/uv-coverage/cleanD100res.jpg> <E:/HOTSPOT/Dow
+nloads/Thesis-Template/Figures/uv-coverage/cleanD583map.jpg> <E:/HOTSPOT/Downlo
+ads/Thesis-Template/Figures/uv-coverage/cleanD583res.jpg> <E:/HOTSPOT/Downloads
+/Thesis-Template/Figures/uv-coverage/cleanRes.jpg>]
+<Figures/spurious.png, id=806, 1214.5375pt x 413.545pt>
+File: Figures/spurious.png Graphic file (type png)
+
+<use Figures/spurious.png>
+Package pdftex.def Info: Figures/spurious.png used on input line 162.
+(pdftex.def)             Requested size: 426.79135pt x 145.31714pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[45] [46 <E:/HOTSPOT/Downloads/Thesis-Template/Figures/spurious.png>]) [47]
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/conclusion.tex
+Chapter 6.
+------------------------------------------------------------------------------
+ 6 Conclusions on the report
+------------------------------------------------------------------------------
+) [48
+
+
+] (E:\HOTSPOT\Downloads\Thesis-Template\Appendices\AppendixA.tex
+Appendix A.
+------------------------------------------------------------------------------
+ A Appendix Title Here
+------------------------------------------------------------------------------
+) [49
+
+
+]
+------------------------------------------------------------------------------
+ Bibliography
+------------------------------------------------------------------------------
+(E:\HOTSPOT\Downloads\Thesis-Template\Thesis.bbl
+Underfull \hbox (badness 2564) in paragraph at lines 9--15
+[]\T1/ptm/m/n/10.95 (Harvard-Smithsonian Cen-ter for As-tro-physics) David J. W
+ilner.  NRAO: Imag-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--15
+\T1/ptm/m/n/10.95 and de-con-vo-lu-tion.  [][]$\T1/pcr/m/n/10.95 https : / / sc
+ience . nrao . edu / science / meetings /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--15
+$\T1/pcr/m/n/10.95 2014 / 14th-[]synthesis-[]imaging-[]workshop / lectures-[]fi
+les / wilner _$
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 30--37
+[]\T1/ptm/m/n/10.95 James Di Francesco.  NAASC: A crash course in ra-dio as-tro
+n-omy and in-ter-fer-om-
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 30--37
+$\T1/pcr/m/n/10.95 ppt-[]presentation / jdf . webinar . 2 . pdf / at _ download
+ / file$[][]\T1/ptm/m/n/10.95 , 2014.  Ac-
+ []
+
+) [50
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
+ (E:\HOTSPOT\Downloads\Thesis-Template\Thesis.aux
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/figures.aux)
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/tables.aux)
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/abv.aux)
+(E:\HOTSPOT\Downloads\Thesis-Template\tex/conclusion.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
+Package rerunfilecheck Info: File `Thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 4442A86C63284C680E756A2ACF3BCB13;7771.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
+ ) 
+Here is how much of TeX's memory you used:
+ 24580 strings out of 493921
+ 423512 string characters out of 3144876
+ 466322 words of memory out of 3000000
+ 27067 multiletter control sequences out of 15000+200000
+ 94371 words of font info for 125 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 55i,12n,54p,1884b,626s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/symbols/msam10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/amsfonts/symbols/msam7.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/hoekwater/rsfs/rsfs10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/tim
+es/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.p
+fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cyrillic/wncyr10.pfb>
+Output written on Thesis.pdf (63 pages, 5595117 bytes).
+PDF statistics:
+ 965 PDF objects out of 1000 (max. 8388607)
+ 210 named destinations out of 1000 (max. 500000)
+ 543 words of extra memory for PDF output out of 10000 (max. 10000000)
+
