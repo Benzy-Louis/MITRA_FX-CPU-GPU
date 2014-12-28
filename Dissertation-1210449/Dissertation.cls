@@ -374,7 +374,7 @@
 \thispagestyle{plain}
 \null\vfil
 \vskip 60\p@
-\begin{center}{\Large \sl #1}\end{center}
+\begin{center}{\LARGE \sl #1}\end{center}
 \vfil\null
 \cleardoublepage
 }
