@@ -1,0 +1,32 @@
+\contentsline {chapter}{Declaration of Authorship}{i}{dummy.1}
+\vspace {1em}
+\contentsline {chapter}{Abstract}{iii}{dummy.2}
+\vspace {1em}
+\contentsline {chapter}{Acknowledgements}{iv}{dummy.3}
+\vspace {1em}
+\contentsline {chapter}{List of Figures}{vii}{dummy.5}
+\contentsline {chapter}{List of Tables}{viii}{dummy.7}
+\contentsline {chapter}{Abbreviations}{ix}{dummy.9}
+\contentsline {chapter}{Physical Constants}{x}{dummy.12}
+\contentsline {chapter}{Symbols}{xi}{dummy.15}
+\vspace {2em}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.18}
+\contentsline {section}{\numberline {1.1}Digital Systems for the MITRA}{1}{section.19}
+\contentsline {section}{\numberline {1.2}Aims and objectives}{1}{section.20}
+\contentsline {section}{\numberline {1.3}Outline}{2}{section.21}
+\contentsline {chapter}{\numberline {2}Literature Review}{3}{chapter.22}
+\contentsline {section}{\numberline {2.1}Mr. Vinand Prayag Lit. Rev. Plan advice}{3}{section.23}
+\contentsline {section}{\numberline {2.2}[Cheesy] Prelimary gather up of abstract or similar}{3}{section.24}
+\contentsline {chapter}{\numberline {3}Synthesis Imaging}{13}{chapter.25}
+\contentsline {chapter}{\numberline {4}Distributed FX Correlation - The DiFX software}{14}{chapter.26}
+\contentsline {chapter}{\numberline {5}Conclusions and future works}{15}{chapter.27}
+\contentsline {section}{\numberline {5.1}Conclusions}{15}{section.28}
+\contentsline {section}{\numberline {5.2}Future works}{15}{section.29}
+\vspace {2em}
+\contentsline {chapter}{\numberline {A}Background, mathematical derivations}{16}{appendix.30}
+\contentsline {chapter}{\numberline {B}DiFX - Custom documentation}{17}{appendix.31}
+\contentsline {section}{\numberline {B.1}DiFX - Preliminary setup}{17}{section.32}
+\contentsline {chapter}{\numberline {C}The Git repository}{21}{appendix.45}
+\contentsline {chapter}{\numberline {D}Progress Log}{22}{appendix.46}
+\vspace {2em}
+\contentsline {chapter}{Bibliography}{23}{dummy.47}
