@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d(web2c)
+Capacity: max_strings=50000, hash_size=50000, hash_prime=42509
+The top-level auxiliary file: /storage/emulated/0/DISSERTATION/mitra_fx-cpu-gpu/Dissertation-1210449/Dissertation-1210449.aux
+A level-1 auxiliary file: tex/figures.aux
+A level-1 auxiliary file: tex/tables.aux
+A level-1 auxiliary file: tex/abv.aux
+A level-1 auxiliary file: Chapters/Conclusions.aux
+The style file: plainnat.bst
+Database file #1: Bibliography.bib
+Name 3 in "A. T. Deller and S. J. Tingay and M. Bailes, and C. West" has a comma at the end for entry AdamDiFX2007
+while executing---line 1347 of file plainnat.bst
+Name 3 in "A. T. Deller and S. J. Tingay and M. Bailes, and C. West" has a comma at the end for entry AdamDiFX2007
+while executing---line 1429 of file plainnat.bst
+Name 3 in "A. T. Deller and S. J. Tingay and M. Bailes, and C. West" has a comma at the end for entry AdamDiFX2007
+while executing---line 1429 of file plainnat.bst
+Warning--empty booktitle in jheengut2008MRTsoftcrr
+You've used 2 entries,
+            2773 wiz_defined-function locations,
+            613 strings with 5545 characters,
+and the built_in function-call counts, 962 in all, are:
+= -- 81
+> -- 49
+< -- 1
++ -- 17
+- -- 15
+* -- 77
+:= -- 153
+add.period$ -- 8
+call.type$ -- 2
+change.case$ -- 11
+chr.to.int$ -- 2
+cite$ -- 5
+duplicate$ -- 43
+empty$ -- 84
+format.name$ -- 17
+if$ -- 197
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 2
+newline$ -- 20
+num.names$ -- 8
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 9
+quote$ -- 0
+skip$ -- 30
+stack$ -- 0
+substring$ -- 37
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 22
+warning$ -- 1
+while$ -- 7
+width$ -- 0
+write$ -- 35
+(There were 3 error messages)
