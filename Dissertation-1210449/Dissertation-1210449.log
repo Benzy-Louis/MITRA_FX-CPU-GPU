@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.13(web2c) (format=latex 2013.5.31)  29 DEC 2014 07:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.13(web2c) (format=latex 2013.5.31)  29 DEC 2014 09:03
 entering extended mode
 **/storage/emulated/0/DISSERTATION/mitra_fx-cpu-gpu/Dissertation-1210449/Disser
 tation-1210449.tex
@@ -1576,11 +1576,11 @@ LaTeX Font Info:    Try loading font information for T1+pcr on input line 17.
 (/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/t1
 pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)) (Chapters/Chapter2.tex [1
+) [1
 
 
 
-] [2]
+]) (Chapters/Chapter2.tex [2]
 Chapter 2.
 ------------------------------------------------------------------------------
  2 Literature Review
@@ -1602,12 +1602,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
-[4]
+[4] [5]
 Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
-[5]
+
 Underfull \hbox (badness 10000) in paragraph at lines 122--155
 
  []
@@ -1622,17 +1622,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--176
 
  []
 
-
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 177--183
 
  []
 
-[7]
+
 Underfull \hbox (badness 10000) in paragraph at lines 185--190
 
  []
 
-
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 191--206
 
  []
@@ -1642,7 +1642,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 207--211
 
  []
 
-[8]
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 212--218
 
  []
@@ -1662,7 +1662,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 240--279
 
  []
 
-[9]
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 280--286
 
  []
@@ -1672,12 +1672,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 287--289
 
  []
 
-
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 291--306
 
  []
 
-[10]
+
 Underfull \hbox (badness 10000) in paragraph at lines 307--309
 
  []
@@ -1697,7 +1697,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 318--322
 
  []
 
-
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 323--327
 
  []
@@ -1712,7 +1712,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 331--340
 
  []
 
-[11]
+
 Underfull \hbox (badness 10000) in paragraph at lines 341--343
 
  []
@@ -1722,19 +1722,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 344--348
 
  []
 
-) (Chapters/Chapter3.tex [12]
+[13]) (Chapters/Chapter3.tex [14]
 Chapter 3.
 ------------------------------------------------------------------------------
  3 Synthesis Imaging
 ------------------------------------------------------------------------------
-) (Chapters/Chapter4.tex [13
+) (Chapters/Chapter4.tex [15
 
 ]
 Chapter 4.
 ------------------------------------------------------------------------------
  4 Distributed FX Correlation - The DiFX software
 ------------------------------------------------------------------------------
-) [14
+) [16
 
 ]
 \openout2 = `Chapters/Conclusions.aux'.
@@ -1744,7 +1744,7 @@ Chapter 5.
 ------------------------------------------------------------------------------
  5 Conclusions and future works
 ------------------------------------------------------------------------------
-) [15
+) [17
 
 
 ] (Appendices/AppendixA.tex
@@ -1752,7 +1752,7 @@ Appendix A.
 ------------------------------------------------------------------------------
  A Background, mathematical derivations
 ------------------------------------------------------------------------------
-) (Appendices/AppendixB.tex [16
+) (Appendices/AppendixB.tex [18
 
 
 ]
@@ -1766,33 +1766,33 @@ Overfull \hbox (7.92322pt too wide) in paragraph at lines 23--26
 of / software / howto /
  []
 
-[17
+[19
 
-] [18]
+] [20]
 Overfull \hbox (40.77318pt too wide) in paragraph at lines 113--113
  []\T1/pcr/m/n/10.95 # Setting up the CALC_SERVER environment variable to the l
 ocal host[] 
  []
 
-
+[21]
 Overfull \hbox (4.78772pt too wide) in paragraph at lines 117--118
 []\T1/ptm/m/n/10.95 To see the pro-cesses, open an-other ter-mi-nal go to the r
 oot di-rec-tory of diFX, source setup.bash
  []
 
-[19]) (Appendices/AppendixC.tex [20]
+) (Appendices/AppendixC.tex [22]
 Appendix C.
 ------------------------------------------------------------------------------
  C The Git repository
 ------------------------------------------------------------------------------
-) (Appendices/AppendixD.tex [21
+) (Appendices/AppendixD.tex [23
 
 ]
 Appendix D.
 ------------------------------------------------------------------------------
  D Progress Log
 ------------------------------------------------------------------------------
-) [22
+) [24
 
 ]
 ------------------------------------------------------------------------------
@@ -1800,7 +1800,7 @@ Appendix D.
 ------------------------------------------------------------------------------
 (Dissertation-1210449.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
- [23
+ [25
 
 
 ]
@@ -1814,13 +1814,13 @@ Package rerunfilecheck Info: File `Dissertation-1210449.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
  ) 
 Here is how much of TeX's memory you used:
- 20025 strings out of 43499
- 336340 string characters out of 693906
- 411843 words of memory out of 1000000
+ 20027 strings out of 43499
+ 336354 string characters out of 693906
+ 411844 words of memory out of 1000000
  22765 multiletter control sequences out of 15000+20000
  70131 words of font info for 88 fonts, out of 300000 for 1000
  957 hyphenation exceptions out of 9000
- 56i,11n,55p,2041b,570s stack positions out of 300i,50n,200p,100000b,4000s
+ 56i,12n,55p,2041b,570s stack positions out of 300i,50n,200p,100000b,4000s
 {/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/
 8r.enc}</storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXin
 put/cmmi10.pfb></storage/emulated/0/Android/data/com.litchie.texwriter/texmf-di
@@ -1835,9 +1835,9 @@ mulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/utmr8a.pfb></
 storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/utmr
 8a.pfb></storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXi
 nput/utmri8a.pfb>
-Output written on Dissertation-1210449.pdf (36 pages, 1261648 bytes).
+Output written on Dissertation-1210449.pdf (38 pages, 1264202 bytes).
 PDF statistics:
- 395 PDF objects out of 1000 (max. 8388607)
- 87 named destinations out of 1000 (max. 500000)
+ 406 PDF objects out of 1000 (max. 8388607)
+ 89 named destinations out of 1000 (max. 500000)
  231 words of extra memory for PDF output out of 10000 (max. 10000000)
 

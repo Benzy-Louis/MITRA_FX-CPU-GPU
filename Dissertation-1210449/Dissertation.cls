@@ -245,7 +245,7 @@
 \newenvironment{abstract}
 {
   \btypeout{Abstract Page}
-  \thispagestyle{empty}
+  \thispagestyle{plain}
   \null\vfil
   \begin{center}
     \setlength{\parskip}{0pt}
