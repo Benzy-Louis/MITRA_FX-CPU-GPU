@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d(web2c)
 Capacity: max_strings=50000, hash_size=50000, hash_prime=42509
-The top-level auxiliary file: /storage/emulated/0/DISSERTATION/PUBLIC/MITRA_FX-CPU-GPU/Dissertation-1210449/Dissertation-1210449.aux
+The top-level auxiliary file: /storage/emulated/0/DISSERTATION/mitra_fx-cpu-gpu/Dissertation-1210449/Dissertation-1210449.aux
 A level-1 auxiliary file: tex/figures.aux
 A level-1 auxiliary file: tex/tables.aux
 A level-1 auxiliary file: tex/abv.aux
@@ -16,7 +16,7 @@ while executing---line 1429 of file plainnat.bst
 Warning--empty booktitle in jheengut2008MRTsoftcrr
 You've used 2 entries,
             2773 wiz_defined-function locations,
-            613 strings with 5559 characters,
+            613 strings with 5545 characters,
 and the built_in function-call counts, 962 in all, are:
 = -- 81
 > -- 49

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.13(web2c) (format=latex 2013.5.31)  29 DEC 2014 09:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.13(web2c) (format=latex 2013.5.31)  29 DEC 2014 20:49
 entering extended mode
-**/storage/emulated/0/DISSERTATION/PUBLIC/MITRA_FX-CPU-GPU/Dissertation-1210449
-/Dissertation-1210449.tex
+**/storage/emulated/0/DISSERTATION/mitra_fx-cpu-gpu/Dissertation-1210449/Disser
+tation-1210449.tex
 
-(/storage/emulated/0/DISSERTATION/PUBLIC/MITRA_FX-CPU-GPU/Dissertation-1210449/
-Dissertation-1210449.tex
+(/storage/emulated/0/DISSERTATION/mitra_fx-cpu-gpu/Dissertation-1210449/Dissert
+ation-1210449.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
 rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
@@ -1585,140 +1585,140 @@ Chapter 2.
 ------------------------------------------------------------------------------
  2 Literature Review
 ------------------------------------------------------------------------------
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--47
-
- []
-
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 48--52
+Underfull \hbox (badness 10000) in paragraph at lines 27--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
 [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--155
+Underfull \hbox (badness 10000) in paragraph at lines 123--156
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 156--160
+Underfull \hbox (badness 10000) in paragraph at lines 157--161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--176
+Underfull \hbox (badness 10000) in paragraph at lines 162--177
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 177--183
+Underfull \hbox (badness 10000) in paragraph at lines 178--184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--190
+Underfull \hbox (badness 10000) in paragraph at lines 186--191
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 191--206
+Underfull \hbox (badness 10000) in paragraph at lines 192--207
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--211
+Underfull \hbox (badness 10000) in paragraph at lines 208--212
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 212--218
+Underfull \hbox (badness 10000) in paragraph at lines 213--219
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--232
+Underfull \hbox (badness 10000) in paragraph at lines 220--233
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--239
+Underfull \hbox (badness 10000) in paragraph at lines 234--240
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--279
+Underfull \hbox (badness 10000) in paragraph at lines 241--280
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 280--286
+Underfull \hbox (badness 10000) in paragraph at lines 281--287
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--289
+Underfull \hbox (badness 10000) in paragraph at lines 288--290
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 291--306
+Underfull \hbox (badness 10000) in paragraph at lines 292--307
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--309
+Underfull \hbox (badness 10000) in paragraph at lines 308--310
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--314
+Underfull \hbox (badness 10000) in paragraph at lines 311--315
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--317
+Underfull \hbox (badness 10000) in paragraph at lines 316--318
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--322
+Underfull \hbox (badness 10000) in paragraph at lines 319--323
 
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 323--327
+Underfull \hbox (badness 10000) in paragraph at lines 324--328
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 328--330
+Underfull \hbox (badness 10000) in paragraph at lines 329--331
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--340
+Underfull \hbox (badness 10000) in paragraph at lines 332--341
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--343
+Underfull \hbox (badness 10000) in paragraph at lines 342--344
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--348
+Underfull \hbox (badness 10000) in paragraph at lines 345--349
 
  []
 
@@ -1815,12 +1815,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
  ) 
 Here is how much of TeX's memory you used:
  20027 strings out of 43499
- 336375 string characters out of 693906
+ 336354 string characters out of 693906
  411844 words of memory out of 1000000
  22765 multiletter control sequences out of 15000+20000
  70131 words of font info for 88 fonts, out of 300000 for 1000
  957 hyphenation exceptions out of 9000
- 56i,12n,55p,2048b,570s stack positions out of 300i,50n,200p,100000b,4000s
+ 56i,12n,55p,2041b,570s stack positions out of 300i,50n,200p,100000b,4000s
 {/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/
 8r.enc}</storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXin
 put/cmmi10.pfb></storage/emulated/0/Android/data/com.litchie.texwriter/texmf-di
@@ -1835,7 +1835,7 @@ mulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/utmr8a.pfb></
 storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/utmr
 8a.pfb></storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXi
 nput/utmri8a.pfb>
-Output written on Dissertation-1210449.pdf (38 pages, 1264226 bytes).
+Output written on Dissertation-1210449.pdf (38 pages, 1264212 bytes).
 PDF statistics:
  406 PDF objects out of 1000 (max. 8388607)
  89 named destinations out of 1000 (max. 500000)
