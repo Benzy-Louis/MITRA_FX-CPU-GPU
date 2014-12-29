@@ -17,16 +17,16 @@
 \contentsline {chapter}{\numberline {2}Literature Review}{3}{chapter.22}
 \contentsline {section}{\numberline {2.1}Mr. Vinand Prayag Lit. Rev. Plan advice}{3}{section.23}
 \contentsline {section}{\numberline {2.2}[Cheesy] Preliminary gather up of abstract or similar}{3}{section.24}
-\contentsline {chapter}{\numberline {3}Synthesis Imaging}{15}{chapter.25}
-\contentsline {chapter}{\numberline {4}Distributed FX Correlation - The DiFX software}{16}{chapter.26}
-\contentsline {chapter}{\numberline {5}Conclusions and future works}{17}{chapter.27}
-\contentsline {section}{\numberline {5.1}Conclusions}{17}{section.28}
-\contentsline {section}{\numberline {5.2}Future works}{17}{section.29}
+\contentsline {chapter}{\numberline {3}Synthesis Imaging}{14}{chapter.25}
+\contentsline {chapter}{\numberline {4}Distributed FX Correlation - The DiFX software}{15}{chapter.26}
+\contentsline {chapter}{\numberline {5}Conclusions and future works}{16}{chapter.27}
+\contentsline {section}{\numberline {5.1}Conclusions}{16}{section.28}
+\contentsline {section}{\numberline {5.2}Future works}{16}{section.29}
 \vspace {2em}
-\contentsline {chapter}{\numberline {A}Background, mathematical derivations}{18}{appendix.30}
-\contentsline {chapter}{\numberline {B}DiFX - Custom documentation}{19}{appendix.31}
-\contentsline {section}{\numberline {B.1}DiFX - Preliminary setup}{19}{section.32}
-\contentsline {chapter}{\numberline {C}The Git repository}{23}{appendix.45}
-\contentsline {chapter}{\numberline {D}Progress Log}{24}{appendix.46}
+\contentsline {chapter}{\numberline {A}Background, mathematical derivations}{17}{appendix.30}
+\contentsline {chapter}{\numberline {B}DiFX - Custom documentation}{18}{appendix.31}
+\contentsline {section}{\numberline {B.1}DiFX - Preliminary setup}{18}{section.32}
+\contentsline {chapter}{\numberline {C}The Git repository}{22}{appendix.45}
+\contentsline {chapter}{\numberline {D}Progress Log}{23}{appendix.46}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{25}{dummy.47}
+\contentsline {chapter}{Bibliography}{24}{dummy.47}
