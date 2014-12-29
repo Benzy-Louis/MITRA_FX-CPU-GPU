@@ -1,16 +1,31 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.23)  28 DEC 2014 10:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.13(web2c) (format=latex 2013.5.31)  29 DEC 2014 07:50
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**Dissertation-1210449.tex
-(./Dissertation-1210449.tex
+**/storage/emulated/0/DISSERTATION/mitra_fx-cpu-gpu/Dissertation-1210449/Disser
+tation-1210449.tex
+
+(/storage/emulated/0/DISSERTATION/mitra_fx-cpu-gpu/Dissertation-1210449/Dissert
+ation-1210449.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 11 languages loaded.
-(./Dissertation.cls
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, h
+ungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, ma
+rathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, 
+kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
+ polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, s
+lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
+welsh, loaded.
+(Dissertation.cls
 Document Class: Dissertation 2007/22/02 v1.0 LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/boo
+k.cls
 Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/bk1
+1.clo
 File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -26,25 +41,31 @@ File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/se
+tspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/geo
+metry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/key
+val.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ifp
+df.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ifv
+tex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ifx
+etex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count88
@@ -60,7 +81,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/fa
+ncyhdr.sty
 \fancy@headwidth=\skip43
 \f@ncyO@elh=\skip44
 \f@ncyO@erh=\skip45
@@ -71,41 +93,47 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \f@ncyO@olf=\skip50
 \f@ncyO@orf=\skip51
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2013/01/14 v2.14 AMS math features
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ams
+math.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ams
+text.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ams
+gen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks16
 \ex@=\dimen111
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ams
+bsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen112
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ams
+opn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count91
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 211.
 \uproot@=\count92
 \leftroot@=\count93
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 307.
 \classnum@=\count94
 \DOTSCASE@=\count95
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen113
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \macc@depth=\count96
 \c@MaxMatrixCols=\count97
 \dotsspace@=\muskip10
@@ -126,28 +154,32 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \multlinegap=\skip53
 \multlinetaggap=\skip54
 \mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ams
+fonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ams
+symb.sty
+Package: amssymb 2009/06/22 v3.00
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
-Package: amscd 1999/11/29 v2.0
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ams
+cd.sty
+Package: amscd 1999/11/29 v1.2d
 \athelp@=\toks21
 \minaw@=\dimen120
 \bigaw@=\dimen121
 \minCDarrowwidth=\dimen122
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2004/08/06 v2.20
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ams
+thm.sty
+Package: amsthm 2009/07/02 v2.20.1
 \thm@style=\toks22
 \thm@bodyfont=\toks23
 \thm@headfont=\toks24
@@ -158,78 +190,94 @@ Package: amsthm 2004/08/06 v2.20
 \thm@headsep=\skip57
 \dth@everypar=\toks27
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/xs
+pace.sty
 Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
 )
 \c@example=\count103
 \c@theorem=\count104
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ca
+ption.sty
+Package: caption 2012/02/19 v3.2f Customizing captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 57.
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ca
+ption3.sty
+Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
 \captionmargin=\dimen123
 \captionmargin@=\dimen124
 \captionwidth=\dimen125
-\caption@tempdima=\dimen126
-\caption@indent=\dimen127
-\caption@parindent=\dimen128
-\caption@hangindent=\dimen129
+\caption@indent=\dimen126
+\caption@parindent=\dimen127
+\caption@hangindent=\dimen128
 )
 \c@ContinuedFloat=\count105
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/gra
+phicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/gra
+phics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/tri
+g.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/gra
+phics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/pdf
+tex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/inf
+warerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ltx
+cmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count106
 ))
-\Gin@req@height=\dimen130
-\Gin@req@width=\dimen131
+\Gin@req@height=\dimen129
+\Gin@req@width=\dimen130
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/eps
+topdf.sty
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/eps
+topdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/grf
+ext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/kvd
+efinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/kvo
+ptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/kvs
+etkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ete
+xcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ifl
+uatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -238,7 +286,8 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/pdf
+texcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -246,39 +295,46 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
+
+Package epstopdf Warning: Shell escape feature is not enabled.
+
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/eps
+topdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )))
-(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/bo
+oktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen132
-\lightrulewidth=\dimen133
-\cmidrulewidth=\dimen134
-\belowrulesep=\dimen135
-\belowbottomsep=\dimen136
-\aboverulesep=\dimen137
-\abovetopsep=\dimen138
-\cmidrulesep=\dimen139
-\cmidrulekern=\dimen140
-\defaultaddspace=\dimen141
+\heavyrulewidth=\dimen131
+\lightrulewidth=\dimen132
+\cmidrulewidth=\dimen133
+\belowrulesep=\dimen134
+\belowbottomsep=\dimen135
+\aboverulesep=\dimen136
+\abovetopsep=\dimen137
+\cmidrulesep=\dimen138
+\cmidrulekern=\dimen139
+\defaultaddspace=\dimen140
 \@cmidla=\count107
 \@cmidlb=\count108
-\@aboverulesep=\dimen142
-\@belowrulesep=\dimen143
+\@aboverulesep=\dimen141
+\@belowrulesep=\dimen142
 \@thisruleclass=\count109
 \@lastruleclass=\count110
-\@thisrulewidth=\dimen144
+\@thisrulewidth=\dimen143
 )
-(/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ro
+tating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ift
+hen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count111
@@ -287,56 +343,63 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box28
 \rot@mess@toks=\toks28
 )
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/li
+stings.sty
 \lst@mode=\count112
 \lst@gtempboxa=\box29
 \lst@token=\toks29
 \lst@length=\count113
-\lst@currlwidth=\dimen145
+\lst@currlwidth=\dimen144
 \lst@column=\count114
 \lst@pos=\count115
-\lst@lostspace=\dimen146
-\lst@width=\dimen147
+\lst@lostspace=\dimen145
+\lst@width=\dimen146
 \lst@newlines=\count116
 \lst@lineno=\count117
-\lst@maxwidth=\dimen148
- (./lstpatch.sty
+\lst@maxwidth=\dimen147
+ (lstpatch.sty
 
 ***
 *** This is a patch for listings 1.3, but you're using
-*** version 1.5b.
+*** version 1.4.
 ***
 *** Patch file not loaded.
 ***
 
-) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+)
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ls
+tmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
 \c@lstnumber=\count118
 \lst@skipnumbers=\count119
 \lst@framebox=\box30
 )
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2013/08/26 1.5b listings configuration
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/li
+stings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
 ))
-Package: listings 2013/08/26 1.5b (Carsten Heinz)
-
-(./lstpatch.sty
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+ (lstpatch.sty
 
 ***
 *** This is a patch for listings 1.3, but you're using
-*** version 1.5b.
+*** version 1.4.
 ***
  *** Patch file not loaded.
 ***
 
-) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+)
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/hyp
+erref.sty
+Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/hob
+sub-hyperref.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/hob
+sub-generic.sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -365,60 +428,60 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
-)
-\@linkdim=\dimen149
+\@linkdim=\dimen148
 \Hy@linkcounter=\count120
 \Hy@pagecounter=\count121
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/pd1
+enc.def
+File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count122
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/hyp
+erref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4319
+Package hyperref Info: Option `bookmarks' set `true' on input line 3941.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 3941.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 3941
 .
-Package hyperref Info: Option `hypertexnames' set `false' on input line 4319.
-Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
-Package hyperref Info: Option `unicode' set `true' on input line 4319.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 3941.
+Package hyperref Info: Option `colorlinks' set `true' on input line 3941.
+Package hyperref Info: Option `unicode' set `true' on input line 3941.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/pue
+nc.def
+File: puenc.def 2012/05/13 v6.82q Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
-Package hyperref Info: Hyper figures OFF on input line 4443.
-Package hyperref Info: Link nesting OFF on input line 4448.
-Package hyperref Info: Hyper index ON on input line 4451.
-Package hyperref Info: Plain pages OFF on input line 4458.
-Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Option `breaklinks' set `true' on input line 3941.
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing OFF on input line 4082.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4688.
+Package hyperref Info: Bookmarks ON on input line 4300.
 \c@Hy@tempcnt=\count123
 
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/url
+.sty
 \Urlmuskip=\muskip11
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen150
+LaTeX Info: Redefining \url on input line 4653.
 \Fld@menulength=\count124
-\Field@Width=\dimen151
-\Fld@charsize=\dimen152
-Package hyperref Info: Hyper figures OFF on input line 6295.
-Package hyperref Info: Link nesting OFF on input line 6300.
-Package hyperref Info: Hyper index ON on input line 6303.
-Package hyperref Info: backreferencing OFF on input line 6310.
-Package hyperref Info: Link coloring ON on input line 6313.
-Package hyperref Info: Link coloring with OCG OFF on input line 6320.
-Package hyperref Info: PDF/A mode OFF on input line 6325.
-LaTeX Info: Redefining \ref on input line 6365.
-LaTeX Info: Redefining \pageref on input line 6369.
+\Field@Width=\dimen149
+\Fld@charsize=\dimen150
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing OFF on input line 5788.
+Package hyperref Info: Link coloring ON on input line 5791.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
 \Hy@abspage=\count125
 \c@Item=\count126
 \c@Hfootnote=\count127
@@ -426,13 +489,19 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/hpd
+ftex.def
+File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
 \Fld@listcount=\count128
 \c@bookmark@seq@number=\count129
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/rer
+unfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/rer
+unfilecheck.cfg)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
@@ -440,14 +509,15 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \c@dummy=\count130
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/lo
+ngtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip61
 \LTright=\skip62
 \LTpre=\skip63
 \LTpost=\skip64
 \LTchunksize=\count131
-\LTcapwidth=\dimen153
+\LTcapwidth=\dimen151
 \LT@head=\box31
 \LT@firsthead=\box32
 \LT@foot=\box33
@@ -458,43 +528,55 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count135
 \LT@p@ftn=\toks30
 ))
-(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ti
+kz.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+f.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+frcs.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+futil-common.tex
 \pgfutil@everybye=\toks31
 )
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+futil-latex.def
 \pgfutil@abb=\box35
 
-(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ev
+eryshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+frcs.code.tex
 Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
 ))
 Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
 
-(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcore.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fsys.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fsys.code.tex
 Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
 
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fkeys.code.tex
 \pgfkeys@pathtoks=\toks32
 \pgfkeys@temptoks=\toks33
 
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks34
 ))
-\pgf@x=\dimen154
-\pgf@y=\dimen155
-\pgf@xa=\dimen156
-\pgf@ya=\dimen157
-\pgf@xb=\dimen158
-\pgf@yb=\dimen159
-\pgf@xc=\dimen160
-\pgf@yc=\dimen161
+\pgf@x=\dimen152
+\pgf@y=\dimen153
+\pgf@xa=\dimen154
+\pgf@ya=\dimen155
+\pgf@xb=\dimen156
+\pgf@yb=\dimen157
+\pgf@xc=\dimen158
+\pgf@yc=\dimen159
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
 \c@pgf@counta=\count136
@@ -502,29 +584,36 @@ Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
 \c@pgf@countc=\count138
 \c@pgf@countd=\count139
 
-(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+f.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
 
-(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fsys-pdftex.def
 File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
 
-(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fsys-common-pdf.def
 File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
 )))
-(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
 \pgfsyssoftpath@smallbuffer@items=\count140
 \pgfsyssoftpath@bigbuffer@items=\count141
 )
-(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
-(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/xc
+olor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/col
+or.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -538,147 +627,187 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcore.code.tex
 Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
 
-(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen162
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmath.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmathcalc.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmathutil.code.tex)
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmathparser.code.tex
+\pgfmath@dimen=\dimen160
 \pgfmath@count=\count142
 \pgfmath@box=\box36
 \pgfmath@toks=\toks35
 \pgfmath@stack@operand=\toks36
 \pgfmath@stack@operation=\toks37
 )
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
-(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmathfunctions.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmathfunctions.basic.code.tex)
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmathfunctions.trigonometric.code.tex)
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmathfunctions.random.code.tex)
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmathfunctions.comparison.code.tex)
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmathfunctions.base.code.tex)
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmathfunctions.round.code.tex)
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmathfunctions.misc.code.tex)))
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count143
 ))
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcorepoints.code.tex
 File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
-\pgf@picminx=\dimen163
-\pgf@picmaxx=\dimen164
-\pgf@picminy=\dimen165
-\pgf@picmaxy=\dimen166
-\pgf@pathminx=\dimen167
-\pgf@pathmaxx=\dimen168
-\pgf@pathminy=\dimen169
-\pgf@pathmaxy=\dimen170
-\pgf@xx=\dimen171
-\pgf@xy=\dimen172
-\pgf@yx=\dimen173
-\pgf@yy=\dimen174
-\pgf@zx=\dimen175
-\pgf@zy=\dimen176
+\pgf@picminx=\dimen161
+\pgf@picmaxx=\dimen162
+\pgf@picminy=\dimen163
+\pgf@picmaxy=\dimen164
+\pgf@pathminx=\dimen165
+\pgf@pathmaxx=\dimen166
+\pgf@pathminy=\dimen167
+\pgf@pathmaxy=\dimen168
+\pgf@xx=\dimen169
+\pgf@xy=\dimen170
+\pgf@yx=\dimen171
+\pgf@yy=\dimen172
+\pgf@zx=\dimen173
+\pgf@zy=\dimen174
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
-\pgf@path@lastx=\dimen177
-\pgf@path@lasty=\dimen178
+\pgf@path@lastx=\dimen175
+\pgf@path@lasty=\dimen176
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
-\pgf@shorten@end@additional=\dimen179
-\pgf@shorten@start@additional=\dimen180
+\pgf@shorten@end@additional=\dimen177
+\pgf@shorten@start@additional=\dimen178
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcorescopes.code.tex
 File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
 \pgfpic=\box37
 \pgf@hbox=\box38
 \pgf@layerbox@main=\box39
 \pgf@picture@serial@count=\count144
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
-\pgflinewidth=\dimen181
+\pgflinewidth=\dimen179
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
-\pgf@pt@x=\dimen182
-\pgf@pt@y=\dimen183
-\pgf@pt@temp=\dimen184
+\pgf@pt@x=\dimen180
+\pgf@pt@y=\dimen181
+\pgf@pt@temp=\dimen182
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcorearrows.code.tex
 File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcoreshade.code.tex
 File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
-\pgf@max=\dimen185
+\pgf@max=\dimen183
 \pgf@sys@shading@range@num=\count145
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcoreimage.code.tex
 File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
 
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
 \pgfexternal@startupbox=\box40
 ))
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcorelayers.code.tex
 File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
 )
-(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
 )))
-(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
 \pgfnodeparttextbox=\box41
 )
-(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
 )
-(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen186
-\pgf@nodesepend=\dimen187
+\pgf@nodesepstart=\dimen184
+\pgf@nodesepend=\dimen185
 )
-(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
 ))
-(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
-(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+ffor.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fkeys.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fkeys.code.tex))
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+ffor.code.tex
 Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
-\pgffor@iter=\dimen188
-\pgffor@skip=\dimen189
+\pgffor@iter=\dimen186
+\pgffor@skip=\dimen187
 \pgffor@stack=\toks38
 \pgffor@toks=\toks39
 ))
-(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ti
+kz.code.tex
 Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
 
-(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+flibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
 \pgf@plot@mark@count=\count146
-\pgfplotmarksize=\dimen190
+\pgfplotmarksize=\dimen188
 )
-\tikz@lastx=\dimen191
-\tikz@lasty=\dimen192
-\tikz@lastxsaved=\dimen193
-\tikz@lastysaved=\dimen194
-\tikzleveldistance=\dimen195
-\tikzsiblingdistance=\dimen196
+\tikz@lastx=\dimen189
+\tikz@lasty=\dimen190
+\tikz@lastxsaved=\dimen191
+\tikz@lastysaved=\dimen192
+\tikzleveldistance=\dimen193
+\tikzsiblingdistance=\dimen194
 \tikz@figbox=\box42
 \tikz@tempbox=\box43
 \tikztreelevel=\count147
@@ -686,7 +815,8 @@ File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
 \tikznumberofcurrentchild=\count149
 \tikz@fig@count=\count150
 
-(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/pg
+fmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
 \pgfmatrixcurrentrow=\count151
 \pgfmatrixcurrentcolumn=\count152
@@ -694,30 +824,34 @@ File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
 )
 \tikz@expandcount=\count154
 
-(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
-hs.code.tex
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ti
+kzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
-))) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+)))
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/na
+tbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip65
 \bibsep=\skip66
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count155
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ve
+rbatim.sty
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks40
 \verbatim@line=\toks41
 \verbatim@in@stream=\read2
-) (./vector.sty
+) (vector.sty
 Package: vector 1994/09/16 v1.0 vector macros for LaTeX2e (nde)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ca
+lc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count156
 \calc@Bcount=\count157
-\calc@Adimen=\dimen197
-\calc@Bdimen=\dimen198
+\calc@Adimen=\dimen195
+\calc@Bdimen=\dimen196
 \calc@Askip=\skip67
 \calc@Bskip=\skip68
 LaTeX Info: Redefining \setlength on input line 76.
@@ -729,14 +863,17 @@ LaTeX Info: Redefining \addtolength on input line 77.
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 13.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ti
+mes.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ma
+thrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup6
 )
-(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/fl
+oat.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count160
 \float@exts=\toks42
@@ -744,15 +881,17 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks43
 \@floatcapt=\box45
 )
-(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen199
-\WF@size=\dimen200
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/wr
+apfig.sty
+\wrapoverhang=\dimen197
+\WF@size=\dimen198
 \c@WF@wrappedlines=\count161
 \WF@box=\box46
 \WF@everypar=\toks44
 Package: wrapfig 2003/01/31  v 3.6
 )
-(/usr/share/texlive/texmf-dist/tex/latex/floatflt/floatflt.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/fl
+oatflt.sty
 Package: floatflt 1997/07/16 v. 1.31
 \c@OptionTest=\count162
 \figbox=\box47
@@ -764,29 +903,32 @@ Package: floatflt 1997/07/16 v. 1.31
 \hangcount=\count166
 \nosuccesstryfig=\count167
 \nosuccesstrytab=\count168
-\figgutter=\dimen201
-\tabgutter=\dimen202
-\htdone=\dimen203
-\pageht=\dimen204
-\startpageht=\dimen205
-\tabbredd=\dimen206
-\floatfltwidth=\dimen207
-\fltitemwidth=\dimen208
+\figgutter=\dimen199
+\tabgutter=\dimen200
+\htdone=\dimen201
+\pageht=\dimen202
+\startpageht=\dimen203
+\tabbredd=\dimen204
+\floatfltwidth=\dimen205
+\fltitemwidth=\dimen206
 \outputpretest=\toks45
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/inp
+utenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks46
 \inpenc@posthook=\toks47
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/utf
+8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/t1e
+nc.dfu
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -936,7 +1078,8 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ot1
+enc.dfu
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -967,7 +1110,8 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/oms
+enc.dfu
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -995,15 +1139,18 @@ Now handling font encoding PU ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/fon
+tenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/ot2enc.def
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ot
+2enc.def
 File: ot2enc.def 2001/08/11 v3.3a Cyrillic encoding definition file
 Now handling font encoding OT2 ...
 ... processing UTF-8 mapping file for font encoding OT2
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot2enc.dfu
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ot2
+enc.dfu
 File: ot2enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00AB (decimal 171)
    defining Unicode char U+00BB (decimal 187)
@@ -1144,19 +1291,20 @@ File: ot2enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+201D (decimal 8221)
    defining Unicode char U+2116 (decimal 8470)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/t1e
+nc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
 \symcyrletters=\mathgroup7
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/su
+bcaption.sty
+Package: subcaption 2012/01/12 v1.1d Sub-captions (AR)
 \c@subfigure=\count169
 \c@subtable=\count170
-)
-(./Dissertation-1210449.aux (./tex/figures.aux) (./tex/tables.aux)
-(./tex/abv.aux) (./Chapters/Conclusions.aux))
+) (Dissertation-1210449.aux (tex/figures.aux) (tex/tables.aux)
+(tex/abv.aux) (Chapters/Conclusions.aux))
 \openout1 = `Dissertation-1210449.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -1178,13 +1326,15 @@ LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 31.
 LaTeX Font Info:    Try loading font information for OT2+cmr on input line 31.
 
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/ot2cmr.fd
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ot
+2cmr.fd
 File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 31.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/t1
+ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -1227,55 +1377,44 @@ Package caption Info: floatflt package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
-Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/lt
+caption.sty
+Package: ltcaption 2011/09/12 v1.3 longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count171
-\scratchdimen=\dimen209
-\scratchbox=\box50
-\nofMPsegments=\count172
-\nofMParguments=\count173
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count174
-\MPscratchDim=\dimen210
-\MPnumerator=\count175
-\makeMPintoPDFobject=\count176
-\everyMPtoPDFconversion=\toks49
-)
-\c@lstlisting=\count177
-\AtBeginShipoutBox=\box51
+\c@lstlisting=\count171
+\AtBeginShipoutBox=\box50
 Package hyperref Info: Link coloring ON on input line 31.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/nam
+eref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/get
+titlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count178
+\c@section@level=\count172
 )
 LaTeX Info: Redefining \ref on input line 31.
 LaTeX Info: Redefining \pageref on input line 31.
 LaTeX Info: Redefining \nameref on input line 31.
-
-(./Dissertation-1210449.out) (./Dissertation-1210449.out)
+ (Dissertation-1210449.out) (Dissertation-1210449.out)
 \@outlinefile=\write4
 \openout4 = `Dissertation-1210449.out'.
 
 
-ABD: EveryShipout initializing macros (./tex/title.tex
-<img/Cov.png, id=107, 597.432pt x 845.0772pt>
+ABD: EveryShipout initializing macros (tex/title.tex
+<img/Cov.png, id=110, 597.432pt x 845.0772pt>
 File: img/Cov.png Graphic file (type png)
  <use img/Cov.png>
 Package pdftex.def Info: img/Cov.png used on input line 7.
 (pdftex.def)             Requested size: 597.55817pt x 845.04933pt.
 
-<img/University-of-Mauritius-logo.png, id=108, 179.67125pt x 248.93pt>
+<img/University-of-Mauritius-logo.png, id=111, 179.67125pt x 248.93pt>
 File: img/University-of-Mauritius-logo.png Graphic file (type png)
 
 <use img/University-of-Mauritius-logo.png>
@@ -1292,37 +1431,42 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/Cov.png> <./img/Univ
-ersity-of-Mauritius-logo.png>])
-(./tex/dedicate.tex
+{/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/pdf
+tex.map} <img/Cov.png> <img/University-of-Mauritius-logo.png>]) (tex/dedicate.t
+ex
 ------------------------------------------------------------------------------
  Dedicatory
 ------------------------------------------------------------------------------
 [1
 
 
-]) (./tex/declaration.tex
+]) (tex/declaration.tex
 ------------------------------------------------------------------------------
  Declaration of Authorship
 ------------------------------------------------------------------------------
 LaTeX Font Info:    Try loading font information for U+msa on input line 28.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ums
+a.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 28.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ums
+b.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+rsfs on input line 28.
 
-(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ur
+sfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Try loading font information for OT2+wncyr on input line 28
 .
 
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/ot2wncyr.fd
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ot
+2wncyr.fd
 File: ot2wncyr.fd 1999/12/17 v3.2a Computer Modern Cyrillic font definitions
 )
 Underfull \hbox (badness 10000) in paragraph at lines 28--28
@@ -1332,17 +1476,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--28
 [1
 
 
-]) (./tex/funnyQuote.tex [2
+]) (tex/funnyQuote.tex [2
 
-]) (./tex/abstract.tex
+]) (tex/abstract.tex
 ------------------------------------------------------------------------------
  Abstract Page
 ------------------------------------------------------------------------------
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 5.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 6.
 [3
 
-]) (./tex/acknowledgements.tex
+]) (tex/acknowledgements.tex
 ------------------------------------------------------------------------------
  Acknowledgements
 ------------------------------------------------------------------------------
@@ -1354,7 +1498,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 ------------------------------------------------------------------------------
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 79.
-(./Dissertation-1210449.toc [5
+(Dissertation-1210449.toc [5
 
 
 ])
@@ -1364,11 +1508,11 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
  [6]
 \openout2 = `tex/figures.aux'.
 
- (./tex/figures.tex
+ (tex/figures.tex
 ------------------------------------------------------------------------------
  List of Figures
 ------------------------------------------------------------------------------
-(./Dissertation-1210449.lof)
+(Dissertation-1210449.lof)
 \tf@lof=\write6
 \openout6 = `Dissertation-1210449.lof'.
 
@@ -1379,11 +1523,11 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 ])
 \openout2 = `tex/tables.aux'.
 
- (./tex/tables.tex
+ (tex/tables.tex
 ------------------------------------------------------------------------------
  List of Tables
 ------------------------------------------------------------------------------
-(./Dissertation-1210449.lot)
+(Dissertation-1210449.lot)
 \tf@lot=\write7
 \openout7 = `Dissertation-1210449.lot'.
 
@@ -1395,7 +1539,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 ])
 \openout2 = `tex/abv.aux'.
 
- (./tex/abv.tex
+ (tex/abv.tex
 ------------------------------------------------------------------------------
  Abbreviations
 ------------------------------------------------------------------------------
@@ -1405,7 +1549,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 
 
 
-]) (./tex/phyConstSyms.tex
+]) (tex/phyConstSyms.tex
 ------------------------------------------------------------------------------
  Physical Constants
 ------------------------------------------------------------------------------
@@ -1422,16 +1566,17 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 
 
 
-]) (./Chapters/Chapter1.tex
+]) (Chapters/Chapter1.tex
 Chapter 1.
 ------------------------------------------------------------------------------
  1 Introduction
 ------------------------------------------------------------------------------
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 17.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+
+(/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/t1
+pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-))
-(./Chapters/Chapter2.tex [1
+)) (Chapters/Chapter2.tex [1
 
 
 
@@ -1440,10 +1585,6 @@ Chapter 2.
 ------------------------------------------------------------------------------
  2 Literature Review
 ------------------------------------------------------------------------------
-
-Package natbib Warning: Citation `jheengut2008MRTsoftcrr' undefined on input li
-ne 22.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 21--47
 
@@ -1581,12 +1722,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 344--348
 
  []
 
-) (./Chapters/Chapter3.tex [12]
+) (Chapters/Chapter3.tex [12]
 Chapter 3.
 ------------------------------------------------------------------------------
  3 Synthesis Imaging
 ------------------------------------------------------------------------------
-) (./Chapters/Chapter4.tex [13
+) (Chapters/Chapter4.tex [13
 
 ]
 Chapter 4.
@@ -1598,7 +1739,7 @@ Chapter 4.
 ]
 \openout2 = `Chapters/Conclusions.aux'.
 
- (./Chapters/Conclusions.tex
+ (Chapters/Conclusions.tex
 Chapter 5.
 ------------------------------------------------------------------------------
  5 Conclusions and future works
@@ -1606,12 +1747,12 @@ Chapter 5.
 ) [15
 
 
-] (./Appendices/AppendixA.tex
+] (Appendices/AppendixA.tex
 Appendix A.
 ------------------------------------------------------------------------------
  A Background, mathematical derivations
 ------------------------------------------------------------------------------
-) (./Appendices/AppendixB.tex [16
+) (Appendices/AppendixB.tex [16
 
 
 ]
@@ -1639,12 +1780,12 @@ Overfull \hbox (4.78772pt too wide) in paragraph at lines 117--118
 oot di-rec-tory of diFX, source setup.bash
  []
 
-[19]) (./Appendices/AppendixC.tex [20]
+[19]) (Appendices/AppendixC.tex [20]
 Appendix C.
 ------------------------------------------------------------------------------
  C The Git repository
 ------------------------------------------------------------------------------
-) (./Appendices/AppendixD.tex [21
+) (Appendices/AppendixD.tex [21
 
 ]
 Appendix D.
@@ -1657,43 +1798,46 @@ Appendix D.
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
-No file Dissertation-1210449.bbl.
-
-Package natbib Warning: There were undefined citations.
-
+(Dissertation-1210449.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
+ [23
+
+
+]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
-(./Dissertation-1210449.aux (./tex/figures.aux) (./tex/tables.aux)
-(./tex/abv.aux) (./Chapters/Conclusions.aux))
+ (Dissertation-1210449.aux (tex/figures.aux)
+(tex/tables.aux) (tex/abv.aux) (Chapters/Conclusions.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
 Package rerunfilecheck Info: File `Dissertation-1210449.out' has not changed.
-(rerunfilecheck)             Checksum: 4005F432442ECBED7FB6DD58DC63E984;4232.
+(rerunfilecheck)             Checksum: 7D5E697B41DE0EDAA95F5F2AAF9C4B17;4335.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
  ) 
 Here is how much of TeX's memory you used:
- 22506 strings out of 494474
- 363487 string characters out of 6172702
- 425384 words of memory out of 5000000
- 25136 multiletter control sequences out of 15000+600000
- 70131 words of font info for 88 fonts, out of 8000000 for 9000
- 452 hyphenation exceptions out of 8191
- 56i,11n,55p,1970b,570s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/symbols/msam7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier
-/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/urw/times/utmri8a.pfb>
-Output written on Dissertation-1210449.pdf (35 pages, 1219863 bytes).
+ 20025 strings out of 43499
+ 336340 string characters out of 693906
+ 411843 words of memory out of 1000000
+ 22765 multiletter control sequences out of 15000+20000
+ 70131 words of font info for 88 fonts, out of 300000 for 1000
+ 957 hyphenation exceptions out of 9000
+ 56i,11n,55p,2041b,570s stack positions out of 300i,50n,200p,100000b,4000s
+{/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/
+8r.enc}</storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXin
+put/cmmi10.pfb></storage/emulated/0/Android/data/com.litchie.texwriter/texmf-di
+st/TeXinput/cmr10.pfb></storage/emulated/0/Android/data/com.litchie.texwriter/t
+exmf-dist/TeXinput/cmr8.pfb></storage/emulated/0/Android/data/com.litchie.texwr
+iter/texmf-dist/TeXinput/cmsy10.pfb></storage/emulated/0/Android/data/com.litch
+ie.texwriter/texmf-dist/TeXinput/cmsy8.pfb></storage/emulated/0/Android/data/co
+m.litchie.texwriter/texmf-dist/TeXinput/msam7.pfb></storage/emulated/0/Android/
+data/com.litchie.texwriter/texmf-local/TeXinput/ucrr8a.pfb></storage/emulated/0
+/Android/data/com.litchie.texwriter/texmf-local/TeXinput/utmb8a.pfb></storage/e
+mulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/utmr8a.pfb></
+storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/utmr
+8a.pfb></storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXi
+nput/utmri8a.pfb>
+Output written on Dissertation-1210449.pdf (36 pages, 1261648 bytes).
 PDF statistics:
- 384 PDF objects out of 1000 (max. 8388607)
- 329 compressed objects within 4 object streams
- 82 named destinations out of 1000 (max. 500000)
- 223 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 395 PDF objects out of 1000 (max. 8388607)
+ 87 named destinations out of 1000 (max. 500000)
+ 231 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -29,3 +29,4 @@
 \contentsline {chapter}{\numberline {C}The Git repository}{21}{appendix.45}
 \contentsline {chapter}{\numberline {D}Progress Log}{22}{appendix.46}
 \vspace {2em}
+\contentsline {chapter}{Bibliography}{23}{dummy.47}
