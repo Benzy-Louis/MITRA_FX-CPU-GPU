@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.13(web2c) (format=latex 2013.5.31)  29 DEC 2014 23:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.13(web2c) (format=latex 2013.5.31)  1 JAN 2015 22:41
 entering extended mode
 **/storage/emulated/0/DISSERTATION/mitra_fx-cpu-gpu/Dissertation-1210449/Disser
 tation-1210449.tex
@@ -861,7 +861,7 @@ LaTeX Info: Redefining \addtolength on input line 77.
 )
 \c@vec@elem=\count159
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 13.
+Package hyperref Info: Option `colorlinks' set `true' on input line 16.
 
 (/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ti
 mes.sty
@@ -1307,31 +1307,31 @@ Package: subcaption 2012/01/12 v1.1d Sub-captions (AR)
 (tex/abv.aux) (Chapters/Conclusions.aux))
 \openout1 = `Dissertation-1210449.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 31.
-LaTeX Font Info:    Try loading font information for OT2+cmr on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 34.
+LaTeX Font Info:    Try loading font information for OT2+cmr on input line 34.
 
 (/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ot
 2cmr.fd
 File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 31.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 34.
 
 (/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/t1
 ptm.fd
@@ -1387,7 +1387,7 @@ Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count171
 \AtBeginShipoutBox=\box50
-Package hyperref Info: Link coloring ON on input line 31.
+Package hyperref Info: Link coloring ON on input line 34.
 
 (/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/nam
 eref.sty
@@ -1399,22 +1399,22 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count172
 )
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
-LaTeX Info: Redefining \nameref on input line 31.
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
+LaTeX Info: Redefining \nameref on input line 34.
  (Dissertation-1210449.out) (Dissertation-1210449.out)
 \@outlinefile=\write4
 \openout4 = `Dissertation-1210449.out'.
 
 
 ABD: EveryShipout initializing macros (tex/title.tex
-<img/Cov.png, id=110, 597.432pt x 845.0772pt>
+<img/Cov.png, id=126, 597.432pt x 845.0772pt>
 File: img/Cov.png Graphic file (type png)
  <use img/Cov.png>
 Package pdftex.def Info: img/Cov.png used on input line 7.
 (pdftex.def)             Requested size: 597.55817pt x 845.04933pt.
 
-<img/University-of-Mauritius-logo.png, id=111, 179.67125pt x 248.93pt>
+<img/University-of-Mauritius-logo.png, id=127, 179.67125pt x 248.93pt>
 File: img/University-of-Mauritius-logo.png Graphic file (type png)
 
 <use img/University-of-Mauritius-logo.png>
@@ -1444,32 +1444,32 @@ ex
 ------------------------------------------------------------------------------
  Declaration of Authorship
 ------------------------------------------------------------------------------
-LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+LaTeX Font Info:    Try loading font information for U+msa on input line 37.
 
 (/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ums
 a.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+LaTeX Font Info:    Try loading font information for U+msb on input line 37.
 
 (/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXinput/ums
 b.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 28.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 37.
 
 (/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ur
 sfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Try loading font information for OT2+wncyr on input line 28
+LaTeX Font Info:    Try loading font information for OT2+wncyr on input line 37
 .
 
 (/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/ot
 2wncyr.fd
 File: ot2wncyr.fd 1999/12/17 v3.2a Computer Modern Cyrillic font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 28--28
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
 
  []
 
@@ -1483,7 +1483,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--28
  Abstract Page
 ------------------------------------------------------------------------------
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 6.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 14.
 [3
 
 ]) (tex/acknowledgements.tex
@@ -1497,7 +1497,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
  Table of Contents
 ------------------------------------------------------------------------------
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 79.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 82.
 (Dissertation-1210449.toc [5
 
 
@@ -1543,6 +1543,12 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 ------------------------------------------------------------------------------
  Abbreviations
 ------------------------------------------------------------------------------
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 31.
 [9
 
 
@@ -1571,7 +1577,7 @@ Chapter 1.
 ------------------------------------------------------------------------------
  1 Introduction
 ------------------------------------------------------------------------------
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 17.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 24.
 
 (/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/t1
 pcr.fd
@@ -1585,161 +1591,65 @@ Chapter 2.
 ------------------------------------------------------------------------------
  2 Literature Review
 ------------------------------------------------------------------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--38
+
+ []
+
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 27--48
+Underfull \hbox (badness 10000) in paragraph at lines 40--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--53
+Underfull \hbox (badness 10000) in paragraph at lines 48--53
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+Underfull \hbox (badness 10000) in paragraph at lines 56--68
+
+ []
+
+) (Chapters/Chapter3.tex
+Underfull \hbox (badness 10000) in paragraph at lines 70--2
 
  []
 
 [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--156
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 157--161
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 162--177
-
- []
-
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 178--184
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--191
-
- []
-
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 192--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 208--212
-
- []
-
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 213--219
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 221--227
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--267
-
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 268--274
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 275--277
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 279--294
-
- []
-
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 295--297
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 298--302
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--305
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 306--310
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 311--315
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 316--318
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 319--328
-
- []
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 329--331
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 332--336
-
- []
-
-) (Chapters/Chapter3.tex [13]
 Chapter 3.
 ------------------------------------------------------------------------------
  3 Synthesis Imaging
 ------------------------------------------------------------------------------
-) (Chapters/Chapter4.tex [14
+) (Chapters/Chapter4.tex [6
 
 ]
 Chapter 4.
 ------------------------------------------------------------------------------
  4 Distributed FX Correlation - The DiFX software
 ------------------------------------------------------------------------------
-) [15
+) (Chapters/Chapter5.tex [7
+
+]
+Chapter 5.
+------------------------------------------------------------------------------
+ 5 GPGPU FX Correlation 
+------------------------------------------------------------------------------
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 12.
+) [8
 
 ]
 \openout2 = `Chapters/Conclusions.aux'.
 
  (Chapters/Conclusions.tex
-Chapter 5.
+Chapter 6.
 ------------------------------------------------------------------------------
- 5 Conclusions and future works
+ 6 Conclusions and future works
 ------------------------------------------------------------------------------
-) [16
+) [9
 
 
 ] (Appendices/AppendixA.tex
@@ -1747,7 +1657,7 @@ Appendix A.
 ------------------------------------------------------------------------------
  A Background, mathematical derivations
 ------------------------------------------------------------------------------
-) (Appendices/AppendixB.tex [17
+) (Appendices/AppendixB.tex [10
 
 
 ]
@@ -1761,65 +1671,301 @@ Overfull \hbox (7.92322pt too wide) in paragraph at lines 23--26
 of / software / howto /
  []
 
-[18
+[11
 
-] [19]
+] [12]
 Overfull \hbox (40.77318pt too wide) in paragraph at lines 113--113
  []\T1/pcr/m/n/10.95 # Setting up the CALC_SERVER environment variable to the l
 ocal host[] 
  []
 
-[20]
+[13]
 Overfull \hbox (4.78772pt too wide) in paragraph at lines 117--118
 []\T1/ptm/m/n/10.95 To see the pro-cesses, open an-other ter-mi-nal go to the r
 oot di-rec-tory of diFX, source setup.bash
  []
 
-) (Appendices/AppendixC.tex [21]
+) (Appendices/AppendixC.tex [14]
 Appendix C.
 ------------------------------------------------------------------------------
  C The Git repository
 ------------------------------------------------------------------------------
-) (Appendices/AppendixD.tex [22
+) (Appendices/AppendixD.tex [15
 
 ]
 Appendix D.
 ------------------------------------------------------------------------------
  D Progress Log
 ------------------------------------------------------------------------------
-) [23
+) [16
 
 ]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
-(Dissertation-1210449.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
- [24
+(Dissertation-1210449.bbl
+Underfull \hbox (badness 2809) in paragraph at lines 9--14
+[]\T1/ptm/m/n/10.95 John Hold-ener Alex Bogert and Nicholas Smith.  In-ter-ac-t
+ive Vi-su-al-iza-tion of As-tro-
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 9--14
+\T1/ptm/m/n/10.95 phys-i-cal Data.  In \T1/ptm/m/it/10.95 2014 GPU Tech-nol-ogy
+ Con-fer-ence (GTC 2014)\T1/ptm/m/n/10.95 , 2014.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--14
+[][]$\T1/pcr/m/n/10.95 http : / / on-[]demand . gputechconf . com / gtc / 2014 
+/ poster / pdf / P4201 _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
+\T1/pcr/m/n/10.95 / / on-[]demand . gputechconf . com / supercomputing / 2012 /
+ presentation /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+[]\T1/ptm/m/n/10.95 Lincoln Green-hill Jonathon Kocz Ben Bars-dell, Mike Clark.
+  Ac-cel-er-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\T1/ptm/m/n/10.95 at-ing Ra-dio As-tron-omy Cross-Correlation Us-ing the Ke-ple
+r Ar-chi-tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\T1/ptm/m/n/10.95 ture.  In \T1/ptm/m/it/10.95 2013 GPU Tech-nol-ogy Con-fer-en
+ce (GTC 2013)\T1/ptm/m/n/10.95 , 2013.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+[][]$\T1/pcr/m/n/10.95 http : / / on-[]demand . gputechconf . com / gtc / 2013 
+/ presentations /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--37
+\T1/ptm/m/n/10.95 URL [][]$\T1/pcr/m/n/10.95 http : / / on-[]demand . gputechco
+nf . com / gtc / 2014 / presentations /
+ []
+
+[17
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
- (Dissertation-1210449.aux (tex/figures.aux)
-(tex/tables.aux) (tex/abv.aux) (Chapters/Conclusions.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
+Underfull \hbox (badness 1867) in paragraph at lines 70--74
+[]\T1/ptm/m/n/10.95 Encyclopedia Bri-tan-nica.  Quasars, 2014b.  URL [][]$\T1/p
+cr/m/n/10.95 http : / / www . britannica . com /
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 83--90
+[]\T1/ptm/m/n/10.95 James Di Francesco.  NAASC: A crash course in ra-dio as-tro
+n-omy and in-ter-fer-om-
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 83--90
+\T1/ptm/m/n/10.95 e-try: Aper-ture Syn-the-sis.  [][]$\T1/pcr/m/n/10.95 https :
+ / / science . nrao . edu / science / meetings /
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 97--103
+[]\T1/ptm/m/n/10.95 Chris Har-ris, Karen Haines, and Lis-ter Staveley-Smith.  G
+PU ac-cel-er-ated ra-dio
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 97--103
+\T1/ptm/m/n/10.95 as-tron-omy sig-nal con-vo-lu-tion.  \T1/ptm/m/it/10.95 Ex-pe
+r-i-men-tal As-tron-omy\T1/ptm/m/n/10.95 , 22(1-2):129--141, 2008.
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 97--103
+\T1/ptm/m/n/10.95 URL [][]$\T1/pcr/m/n/10.95 http : / / www . gpucomputing . ne
+t / sites / default / files / papers / 962 /
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 105--111
+[]\T1/ptm/m/n/10.95 Pradeep Ku-mar Gupta Har-shavard-han Reddy Suda.  Pow-er-in
+g Real-time Ra-dio As-tron-
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 105--111
+\T1/ptm/m/n/10.95 omy Sig-nal Pro-cess-ing with GPUs. De-sign of a GPU based re
+al-time back-end for
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 105--111
+\T1/ptm/m/n/10.95 the up-graded GMRT.  In \T1/ptm/m/it/10.95 2013 GPU Tech-nol-
+ogy Con-fer-ence (GTC 2013)\T1/ptm/m/n/10.95 , 2013.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--111
+\T1/ptm/m/n/10.95 URL [][]$\T1/pcr/m/n/10.95 http : / / on-[]demand . gputechco
+nf . com / gtc / 2013 / presentations /
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 122--127
+[]\T1/ptm/m/n/10.95 Dominique In-gala.  An Overview of the MI-TRA Ra-dio Tele-s
+cope Sig-nal Chain.  In
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 134--140
+[]\T1/ptm/m/n/10.95 Lincoln Green-hill Mike Clark and Paul La-Plante.  Ac-cel-e
+r-at-ing Ra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--140
+\T1/ptm/m/n/10.95 dio As-tron-omy Cross-Correlation Be-yond 1 Tflops Us-ing Fer
+mi.  In
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--140
+\T1/ptm/m/it/10.95 2012 GPU Tech-nol-ogy Con-fer-ence (GTC 2012)\T1/ptm/m/n/10.
+95 , 2012.  URL [][]$\T1/pcr/m/n/10.95 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--140
+\T1/pcr/m/n/10.95 / / on-[]demand . gputechconf . com / gtc / 2012 / presentati
+ons /
+ []
+
+
+Overfull \hbox (34.91814pt too wide) in paragraph at lines 134--140
+\T1/pcr/m/n/10.95 S0347-[]Accelerating-[]Radio-[]Astronomy-[]Cross-[]Correlatio
+n-[]1-[]TFlops-[]Fermi .
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 142--149
+\T1/ptm/m/n/10.95 Tech-ni-cal re-port, Septem-ber 2009.  URL [][]$\T1/pcr/m/n/1
+0.95 http : / / www . nvidia . com / content /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--149
+\T1/pcr/m/n/10.95 pdf / fermi _ white _ papers / nvidia _ fermi _ compute _ arc
+hitecture _
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 151--159
+[]\T1/ptm/m/n/10.95 NVIDIA.  White pa-per: NVIDIA's Next Gen-er-a-tion CUDA$[]$
+ Com-pute Ar-chi-tec-ture
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 151--159
+\T1/ptm/m/n/10.95 Kepler$[]$ GK110, The Fastest, Most Ef-fi-cient HPC Ar-chi-te
+c-ture Ever Built.  Tech-ni-
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 170--176
+[]\T1/ptm/m/n/10.95 NVIDIA.  White pa-per: NVIDIA GeForce GTX 980, Fea-tur-ing 
+Maxwell, The Most
+ []
+
+
+Underfull \hbox (badness 3250) in paragraph at lines 170--176
+\T1/ptm/m/n/10.95 Ad-vanced GPU Ever Made.  Tech-ni-cal re-port, Septem-ber 201
+4b.  URL [][]$\T1/pcr/m/n/10.95 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--176
+\T1/pcr/m/n/10.95 / / international . download . nvidia . com / geforce-[]com /
+ international /
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 209--214
+[]\T1/ptm/m/n/10.95 M. Clark S. Bhat-na-gar, P. K. Gupta.  Gpu based im-ager fo
+r ra-dio as-tron-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--214
+\T1/ptm/m/n/10.95 omy.  In \T1/ptm/m/it/10.95 2014 GPU Tech-nol-ogy Con-fer-enc
+e (GTC 2014)\T1/ptm/m/n/10.95 , 2014.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--214
+[][]$\T1/pcr/m/n/10.95 http : / / on-[]demand . gputechconf . com / gtc / 2014 
+/ presentations /
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 230--235
+[]\T1/ptm/m/n/10.95 Prof. Leon V. E. Koop-mans V. Vamsi Kr-ishna, Dr. Panos Lab
+ropou-los.  GPU's for
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 230--235
+\T1/ptm/m/n/10.95 Ra-dio Imag-ing.  In \T1/ptm/m/it/10.95 2012 GPU Tech-nol-ogy
+ Con-fer-ence (GTC 2012)\T1/ptm/m/n/10.95 , 2012.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--235
+[][]$\T1/pcr/m/n/10.95 http : / / on-[]demand . gputechconf . com / gtc / 2012 
+/ presentations /
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 259--264
+\T1/pcr/m/n/10.95 nrao . edu / science / meetings / 2014 / 14th-[]synthesis-[]i
+maging-[]workshop /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--273
+\T1/pcr/m/n/10.95 228407144 _ Accelerating _ a _ Software _ Radio _ Astronomy _
+ Correlator _
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
+ [21]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
+ (Dissertation-1210449.aux (tex/figures.aux) (tex/tables.aux)
+(tex/abv.aux) (Chapters/Conclusions.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
 Package rerunfilecheck Info: File `Dissertation-1210449.out' has not changed.
-(rerunfilecheck)             Checksum: BA1D36ECB4BCE7AA3F5C2F5E91EA4057;4345.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
+(rerunfilecheck)             Checksum: C1B4BC5C03BF0CE63DE86E15C2BEB0C7;4834.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 142.
  ) 
 Here is how much of TeX's memory you used:
- 20026 strings out of 43499
- 336347 string characters out of 693906
- 411844 words of memory out of 1000000
- 22765 multiletter control sequences out of 15000+20000
- 70131 words of font info for 88 fonts, out of 300000 for 1000
+ 20187 strings out of 43499
+ 340187 string characters out of 693906
+ 414848 words of memory out of 1000000
+ 22885 multiletter control sequences out of 15000+20000
+ 79169 words of font info for 95 fonts, out of 300000 for 1000
  957 hyphenation exceptions out of 9000
- 56i,12n,55p,2041b,570s stack positions out of 300i,50n,200p,100000b,4000s
+ 56i,11n,55p,1900b,570s stack positions out of 300i,50n,200p,100000b,4000s
 {/storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/
 8r.enc}</storage/emulated/0/Android/data/com.litchie.texwriter/texmf-dist/TeXin
 put/cmmi10.pfb></storage/emulated/0/Android/data/com.litchie.texwriter/texmf-di
@@ -1834,9 +1980,9 @@ mulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/utmr8a.pfb></
 storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXinput/utmr
 8a.pfb></storage/emulated/0/Android/data/com.litchie.texwriter/texmf-local/TeXi
 nput/utmri8a.pfb>
-Output written on Dissertation-1210449.pdf (37 pages, 1262706 bytes).
+Output written on Dissertation-1210449.pdf (34 pages, 1287124 bytes).
 PDF statistics:
- 402 PDF objects out of 1000 (max. 8388607)
- 88 named destinations out of 1000 (max. 500000)
- 231 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 590 PDF objects out of 1000 (max. 8388607)
+ 124 named destinations out of 1000 (max. 500000)
+ 263 words of extra memory for PDF output out of 10000 (max. 10000000)
 

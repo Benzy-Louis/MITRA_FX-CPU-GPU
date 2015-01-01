@@ -16,17 +16,21 @@
 \contentsline {section}{\numberline {1.3}Outline}{2}{section.21}
 \contentsline {chapter}{\numberline {2}Literature Review}{3}{chapter.22}
 \contentsline {section}{\numberline {2.1}Mr. Vinand Prayag Lit. Rev. Plan advice}{3}{section.23}
-\contentsline {section}{\numberline {2.2}[Cheesy] Preliminary gather up of abstract or similar}{3}{section.24}
-\contentsline {chapter}{\numberline {3}Synthesis Imaging}{14}{chapter.25}
-\contentsline {chapter}{\numberline {4}Distributed FX Correlation - The DiFX software}{15}{chapter.26}
-\contentsline {chapter}{\numberline {5}Conclusions and future works}{16}{chapter.27}
-\contentsline {section}{\numberline {5.1}Conclusions}{16}{section.28}
-\contentsline {section}{\numberline {5.2}Future works}{16}{section.29}
+\contentsline {section}{\numberline {2.2}Tentative listing}{3}{section.24}
+\contentsline {chapter}{\numberline {3}Synthesis Imaging}{6}{chapter.25}
+\contentsline {chapter}{\numberline {4}Distributed FX Correlation - The DiFX software}{7}{chapter.26}
+\contentsline {chapter}{\numberline {5}GPGPU FX Correlation }{8}{chapter.27}
+\contentsline {section}{\numberline {5.1}The GPU}{8}{section.28}
+\contentsline {section}{\numberline {5.2}The xGPU code}{8}{section.29}
+\contentsline {subsection}{\numberline {5.2.1}Tiled Memory Tasking Algorithm}{8}{subsection.30}
+\contentsline {chapter}{\numberline {6}Conclusions and future works}{9}{chapter.31}
+\contentsline {section}{\numberline {6.1}Conclusions}{9}{section.32}
+\contentsline {section}{\numberline {6.2}Future works}{9}{section.33}
 \vspace {2em}
-\contentsline {chapter}{\numberline {A}Background, mathematical derivations}{17}{appendix.30}
-\contentsline {chapter}{\numberline {B}DiFX - Custom documentation}{18}{appendix.31}
-\contentsline {section}{\numberline {B.1}DiFX - Preliminary setup}{18}{section.32}
-\contentsline {chapter}{\numberline {C}The Git repository}{22}{appendix.45}
-\contentsline {chapter}{\numberline {D}Progress Log}{23}{appendix.46}
+\contentsline {chapter}{\numberline {A}Background, mathematical derivations}{10}{appendix.34}
+\contentsline {chapter}{\numberline {B}DiFX - Custom documentation}{11}{appendix.35}
+\contentsline {section}{\numberline {B.1}DiFX - Preliminary setup}{11}{section.36}
+\contentsline {chapter}{\numberline {C}The Git repository}{15}{appendix.49}
+\contentsline {chapter}{\numberline {D}Progress Log}{16}{appendix.50}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{24}{dummy.47}
+\contentsline {chapter}{Bibliography}{17}{dummy.51}
